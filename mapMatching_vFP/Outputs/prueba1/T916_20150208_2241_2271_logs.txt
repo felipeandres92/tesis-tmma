@@ -1,0 +1,508 @@
+('Serie: ', [1])
+T916_20150208_2241_2271
+Debug: 31 - gpsDict={'near_fid': 50483, 'dSpeed': 31.0, 'dir': 84, 'gpsPoint': (-70.72401, -33.4046), 'time': datetime.datetime(1, 1, 1, 18, 36, 40)}
+gps dictionary done...
+midPoint : (-70.7195483871,-33.4042677419)
+n: 31
+-----------
+Debug: row=[(-70.71954838699997, -33.404267741999945)]
+Debug: gpsPoints=-70.74234-33.40366
+Debug: [1]: nearFID = [50360;50360] angleNear = [-75;285] - dir = 56 - angleRoad = [15;195]
+Debug: [1]: nearFID = [50381;50360] angleNear = [16;16] - dir = 56 - angleRoad = [106;286]
+Debug: [1]: nearFID = [50283;50360] angleNear = [7;7] - dir = 56 - angleRoad = [97;277]
+
+Debug: nearList=[(1.695401073021993, 50360, -70.7423576419569, -33.40365616399583, -75.4663849939946), (13.233455783942476, 50381, -70.74230017878644, -33.4035454547469, 16.255782233148462), (13.398111940484796, 50283, -70.74232178937149, -33.40354016965164, 7.263900279711358)]
+Accepted: 1(50360)
+
+============================ Parameters ====================================
+Sample frencuency: 10
+
+Points Snapped: 31
+
+Speed tolerance range: 15
+
+Search Radius: 16 Meters
+
+============================================================================
+------------------------
+Debug: row=[(-70.74233999999996, -33.403659999999945)]
+Debug: gpsPoints=-70.74047-33.4041
+Debug: [2]: nearFID = [50436;50436] angleNear = [17;17] - dir = 110 - angleRoad = [107;287]
+Debug: [2]: nearFID = [50618;50436] angleNear = [-60;300] - dir = 110 - angleRoad = [30;210]
+Debug: [2]: nearFID = [50381;50436] angleNear = [-44;316] - dir = 110 - angleRoad = [46;226]
+
+Debug: nearList=[(7.043029163633663, 50436, -70.74044724859613, -33.40403943371475, 17.48778811050526)]
+PointsToCheck: 5
+Input i: 1
+Input j: 2
+Searching for alt j (2)
+solution found!
+i: 1  &   j: 2
+0.196246
+------------------------
+Debug: row=[(-70.74046999999996, -33.40409999999997)]
+Debug: gpsPoints=-70.73823-33.40451
+Debug: [3]: nearFID = [50519;50519] angleNear = [10;10] - dir = 102 - angleRoad = [100;280]
+
+Debug: nearList=[(8.520965567274157, 50519, -70.73821388880519, -33.4044343711249, 10.130342313327986)]
+PointsToCheck: 5
+Input i: 2
+Input j: 3
+Searching for alt j (3)
+solution found!
+i: 2  &   j: 3
+0.212696
+------------------------
+Debug: row=[(-70.73822999999999, -33.40450999999996)]
+Debug: gpsPoints=-70.73611-33.40501
+Debug: [4]: nearFID = [51069;51069] angleNear = [98;98] - dir = 112 - angleRoad = [8;188]
+Debug: [4]: nearFID = [50616;51069] angleNear = [14;14] - dir = 112 - angleRoad = [104;284]
+Debug: [4]: nearFID = [50615;51069] angleNear = [46;46] - dir = 112 - angleRoad = [136;316]
+Debug: [4]: nearFID = [76807;51069] angleNear = [46;46] - dir = 112 - angleRoad = [136;316]
+
+Debug: nearList=[(11.622081476999382, 50616, -70.73607810643055, -33.40490868503042, 14.790089996307582)]
+PointsToCheck: 5
+Input i: 3
+Input j: 4
+Searching for alt j (4)
+solution found!
+i: 3  &   j: 4
+0.205646
+------------------------
+Debug: row=[(-70.73610999999994, -33.40500999999995)]
+Debug: gpsPoints=-70.73634-33.40634
+Debug: [5]: nearFID = [51069;51069] angleNear = [93;93] - dir = 187 - angleRoad = [3;183]
+Debug: [5]: nearFID = [51326;51069] angleNear = [143;143] - dir = 187 - angleRoad = [53;233]
+Debug: [5]: nearFID = [51081;51069] angleNear = [167;167] - dir = 187 - angleRoad = [77;257]
+Debug: [5]: nearFID = [51148;51069] angleNear = [167;167] - dir = 187 - angleRoad = [77;257]
+Debug: [5]: nearFID = [51289;51069] angleNear = [167;167] - dir = 187 - angleRoad = [77;257]
+Debug: [5]: nearFID = [51315;51069] angleNear = [167;167] - dir = 187 - angleRoad = [77;257]
+Debug: [5]: nearFID = [51582;51069] angleNear = [167;167] - dir = 187 - angleRoad = [77;257]
+
+Debug: nearList=[(4.262497640199742, 51069, -70.7362942818448, -33.40634258871978, 93.86234723739103)]
+PointsToCheck: 5
+Input i: 4
+Input j: 5
+Searching for alt j (5)
+Searching for alt i (4)
+('Started_FID_j: ', 51069)
+Searching for alt j (5)
+solution found!
+i: 3  &   j: 5
+0.372375
+Routing...
+3-->5 - Assign List:[50519, 50540, 50582, 50616, 51069]
+Forcing points between 3 and 5
+4
+(8.912369844796807e-05, 51069, -70.73602242297386, -33.4050265317309)
+('assign: ', ((-70.73602242297386, -33.4050265317309), 51069))
+------------------------
+Debug: row=[(-70.73633999999998, -33.40633999999994)]
+Debug: gpsPoints=-70.73568-33.40659
+Debug: [6]: nearFID = [51249;51186] angleNear = [-85;275] - dir = 103 - angleRoad = [5;185]
+Debug: [6]: nearFID = [51186;51186] angleNear = [14;14] - dir = 103 - angleRoad = [104;284]
+Debug: [6]: nearFID = [51081;51186] angleNear = [-24;336] - dir = 103 - angleRoad = [66;246]
+
+Debug: nearList=[(7.5085387194472695, 51186, -70.73565980127854, -33.40652445554874, 14.4916724445328)]
+PointsToCheck: 5
+Input i: 5
+Input j: 6
+Searching for alt j (6)
+solution found!
+i: 5  &   j: 6
+0.075555
+------------------------
+Debug: row=[(-70.73567999999995, -33.40658999999994)]
+Debug: gpsPoints=-70.73276-33.4074
+Debug: [7]: nearFID = [51339;51339] angleNear = [8;8] - dir = 96 - angleRoad = [98;278]
+Debug: [7]: nearFID = [51880;51339] angleNear = [91;91] - dir = 96 - angleRoad = [1;181]
+Debug: [7]: nearFID = [51350;51339] angleNear = [60;60] - dir = 96 - angleRoad = [150;330]
+
+Debug: nearList=[(9.10808425055782, 51339, -70.73274623920653, -33.40731869492097, 8.079086978820552)]
+PointsToCheck: 5
+Input i: 6
+Input j: 7
+Searching for alt j (7)
+solution found!
+i: 6  &   j: 7
+0.285393
+------------------------
+Debug: row=[(-70.73275999999998, -33.40739999999994)]
+Debug: gpsPoints=-70.73091-33.40734
+Debug: [8]: nearFID = [51495;51338] angleNear = [82;82] - dir = 74 - angleRoad = [172;352]
+Debug: [8]: nearFID = [51338;51338] angleNear = [-14;346] - dir = 74 - angleRoad = [76;256]
+Debug: [8]: nearFID = [51314;51338] angleNear = [28;28] - dir = 74 - angleRoad = [118;298]
+
+Debug: nearList=[(7.77328341959285, 51338, -70.7309307205276, -33.40727210340726, -14.356760758413197)]
+PointsToCheck: 5
+Input i: 7
+Input j: 8
+Searching for alt j (8)
+solution found!
+i: 7  &   j: 8
+0.170504
+------------------------
+Debug: row=[(-70.73090999999994, -33.40733999999998)]
+Debug: gpsPoints=-70.72832-33.40667
+Debug: [9]: nearFID = [51167;51099] angleNear = [-144;216] - dir = 71 - angleRoad = [126;306]
+Debug: [9]: nearFID = [51099;51099] angleNear = [-15;345] - dir = 71 - angleRoad = [75;255]
+Debug: [9]: nearFID = [51174;51099] angleNear = [-97;263] - dir = 71 - angleRoad = [173;353]
+Debug: [9]: nearFID = [51135;51099] angleNear = [-73;287] - dir = 71 - angleRoad = [17;197]
+Debug: [9]: nearFID = [51084;51099] angleNear = [-15;345] - dir = 71 - angleRoad = [75;255]
+
+Debug: nearList=[(1.5883394708565282, 51099, -70.72832459587772, -33.406656207748306, -15.614325259451046), (11.716620672279896, 51084, -70.72835342848181, -33.406568149226246, -15.390729070887202)]
+PointsToCheck: 5
+Input i: 8
+Input j: 9
+Searching for alt j (9)
+solution found!
+i: 8  &   j: 9
+0.251852
+------------------------
+Debug: row=[(-70.72831999999994, -33.40666999999996)]
+Debug: gpsPoints=-70.728-33.40656
+Debug: [10]: nearFID = [51099;51099] angleNear = [164;164] - dir = 66 - angleRoad = [74;254]
+Debug: [10]: nearFID = [51084;51099] angleNear = [0;0] - dir = 66 - angleRoad = [90;270]
+Debug: [10]: nearFID = [51034;51099] angleNear = [19;19] - dir = 66 - angleRoad = [109;289]
+
+Debug: nearList=[(2.149520289341425, 51099, -70.72799378027673, -33.40657866521606, 164.38549949684935)]
+PointsToCheck: 5
+Input i: 9
+Input j: 10
+Searching for alt j (10)
+solution found!
+i: 9  &   j: 10
+0.03195
+------------------------
+Debug: row=[(-70.72799999999995, -33.406559999999956)]
+Debug: gpsPoints=-70.72874-33.4051
+Debug: [11]: nearFID = [50787;50787] angleNear = [57;57] - dir = 331 - angleRoad = [147;327]
+
+Debug: nearList=[(2.780276427278678, 50787, -70.72871486599938, -33.40508643548646, 57.2400947538831)]
+PointsToCheck: 5
+Input i: 10
+Input j: 11
+Searching for alt j (11)
+Searching for alt i (10)
+('Started_FID_j: ', 50787)
+Searching for alt j (11)
+solution found!
+i: 9  &   j: 11
+0.236551
+Routing...
+9-->11 - Assign List:[50787, 51033, 51099]
+Forcing points between 9 and 11
+10
+(1.959189971789643e-05, 51099, -70.72799552887415, -33.40657907489363)
+('assign: ', ((-70.72799552887415, -33.40657907489363), 51099))
+------------------------
+Debug: row=[(-70.72873999999996, -33.40509999999995)]
+Debug: gpsPoints=-70.72873-33.405
+Debug: [12]: nearFID = [50787;50787] angleNear = [-122;238] - dir = 27 - angleRoad = [148;328]
+Debug: [12]: nearFID = [50592;50787] angleNear = [-5;355] - dir = 27 - angleRoad = [85;265]
+Debug: [12]: nearFID = [50593;50787] angleNear = [-54;306] - dir = 27 - angleRoad = [36;216]
+Debug: [12]: nearFID = [50603;50787] angleNear = [-54;306] - dir = 27 - angleRoad = [36;216]
+
+Debug: nearList=[(10.660695942387704, 50593, -70.72882366731993, -33.40494461922293, -54.81840257751962), (10.660695942387704, 50603, -70.72882366731993, -33.40494461922293, -54.81840257751962)]
+PointsToCheck: 5
+Input i: 11
+Input j: 12
+Searching for alt j (12)
+solution found!
+i: 11  &   j: 12
+0.018702
+------------------------
+Debug: row=[(-70.72872999999998, -33.40499999999997)]
+Debug: gpsPoints=-70.72608-33.40476
+Debug: [13]: nearFID = [50543;50543] angleNear = [-5;355] - dir = 85 - angleRoad = [85;265]
+Debug: [13]: nearFID = [50534;50543] angleNear = [60;60] - dir = 85 - angleRoad = [150;330]
+Debug: [13]: nearFID = [50535;50543] angleNear = [60;60] - dir = 85 - angleRoad = [150;330]
+
+Debug: nearList=[(4.751075855276845, 50543, -70.72608493843249, -33.4047173641506, -5.548746606097651)]
+PointsToCheck: 5
+Input i: 12
+Input j: 13
+Searching for alt j (13)
+solution found!
+i: 12  &   j: 13
+0.255991
+------------------------
+Debug: row=[(-70.72607999999997, -33.40475999999995)]
+Debug: gpsPoints=-70.72401-33.4046
+Debug: [14]: nearFID = [50483;50483] angleNear = [-6;354] - dir = 84 - angleRoad = [84;264]
+Debug: [14]: nearFID = [50473;50483] angleNear = [59;59] - dir = 84 - angleRoad = [149;329]
+Debug: [14]: nearFID = [50474;50483] angleNear = [59;59] - dir = 84 - angleRoad = [149;329]
+
+Debug: nearList=[(6.5393663746515935, 50483, -70.72401736566569, -33.40454136441759, -6.014419969452245)]
+PointsToCheck: 5
+Input i: 13
+Input j: 14
+Searching for alt j (14)
+solution found!
+i: 13  &   j: 14
+0.193311
+------------------------
+Debug: row=[(-70.72400999999996, -33.40459999999996)]
+Debug: gpsPoints=-70.72091-33.40438
+Debug: [15]: nearFID = [50426;50426] angleNear = [1;1] - dir = 90 - angleRoad = [91;271]
+Debug: [15]: nearFID = [50595;50426] angleNear = [87;87] - dir = 90 - angleRoad = [177;357]
+Debug: [15]: nearFID = [50405;50426] angleNear = [64;64] - dir = 90 - angleRoad = [154;334]
+
+Debug: nearList=[(6.449758046607373, 50426, -70.72090859171374, -33.40432185979513, 1.1638526548395844)]
+PointsToCheck: 5
+Input i: 14
+Input j: 15
+Searching for alt j (15)
+solution found!
+i: 14  &   j: 15
+0.290618
+------------------------
+Debug: row=[(-70.72090999999995, -33.40437999999995)]
+Debug: gpsPoints=-70.72052-33.40313
+Debug: [16]: nearFID = [50305;50305] angleNear = [66;66] - dir = 338 - angleRoad = [156;336]
+
+Debug: nearList=[(1.4492386819722973, 50305, -70.72050574181107, -33.403124734932824, 66.23785714329395)]
+PointsToCheck: 5
+Input i: 15
+Input j: 16
+Searching for alt j (16)
+solution found!
+i: 15  &   j: 16
+0.271439
+------------------------
+Debug: row=[(-70.72051999999996, -33.403129999999976)]
+Debug: gpsPoints=-70.72083-33.40141
+Debug: [17]: nearFID = [49454;49454] angleNear = [160;160] - dir = 72 - angleRoad = [70;250]
+Debug: [17]: nearFID = [49405;49454] angleNear = [17;17] - dir = 72 - angleRoad = [107;287]
+
+Debug: nearList=[(0.8093579220200715, 49454, -70.72082714369425, -33.40141689284706, 160.8341166780244)]
+PointsToCheck: 5
+Input i: 16
+Input j: 17
+Searching for alt j (17)
+solution found!
+i: 16  &   j: 17
+0.216216
+------------------------
+Debug: row=[(-70.72082999999998, -33.40140999999994)]
+Debug: gpsPoints=-70.71769-33.40169
+Debug: [18]: nearFID = [49543;49543] angleNear = [10;10] - dir = 99 - angleRoad = [100;280]
+
+Debug: nearList=[(4.25542483941836, 49543, -70.71768199474718, -33.40165222438064, 10.07878375839832)]
+PointsToCheck: 5
+Input i: 17
+Input j: 18
+Searching for alt j (18)
+solution found!
+i: 17  &   j: 18
+0.296433
+------------------------
+Debug: row=[(-70.71768999999995, -33.401689999999974)]
+Debug: gpsPoints=-70.71574-33.402
+Debug: [19]: nearFID = [49903;49591] angleNear = [101;101] - dir = 99 - angleRoad = [11;191]
+Debug: [19]: nearFID = [49591;49591] angleNear = [10;10] - dir = 99 - angleRoad = [100;280]
+Debug: [19]: nearFID = [49613;49591] angleNear = [12;12] - dir = 99 - angleRoad = [102;282]
+
+Debug: nearList=[(6.177031909108569, 49591, -70.71572788123453, -33.40194524215679, 10.516035954604947), (6.179308429483909, 49613, -70.71572610861915, -33.401945518145766, 12.0713455383616)]
+PointsToCheck: 5
+Input i: 18
+Input j: 19
+Searching for alt j (19)
+solution found!
+i: 18  &   j: 19
+0.184654
+------------------------
+Debug: row=[(-70.71573999999998, -33.40199999999993)]
+Debug: gpsPoints=-70.71275-33.40244
+Debug: [20]: nearFID = [49780;49780] angleNear = [9;9] - dir = 99 - angleRoad = [99;279]
+
+Debug: nearList=[(7.5825526452909315, 49780, -70.71273652279379, -33.40237257529675, 9.517300468263098)]
+PointsToCheck: 5
+Input i: 19
+Input j: 20
+Searching for alt j (20)
+solution found!
+i: 19  &   j: 20
+0.282265
+------------------------
+Debug: row=[(-70.71274999999997, -33.402439999999956)]
+Debug: gpsPoints=-70.71006-33.4032
+Debug: [21]: nearFID = [50104;50104] angleNear = [23;23] - dir = 112 - angleRoad = [113;293]
+
+Debug: nearList=[(7.272388682837803, 50104, -70.71002897214879, -33.40313981645821, 23.384376634633654)]
+PointsToCheck: 5
+Input i: 20
+Input j: 21
+Searching for alt j (21)
+solution found!
+i: 20  &   j: 21
+0.267741
+------------------------
+Debug: row=[(-70.71005999999994, -33.40319999999997)]
+Debug: gpsPoints=-70.70958-33.40475
+Debug: [22]: nearFID = [50486;50486] angleNear = [-93;267] - dir = 161 - angleRoad = [177;357]
+Debug: [22]: nearFID = [50485;50486] angleNear = [172;172] - dir = 161 - angleRoad = [82;262]
+Debug: [22]: nearFID = [50571;50486] angleNear = [179;179] - dir = 161 - angleRoad = [89;269]
+Debug: [22]: nearFID = [50751;50486] angleNear = [179;179] - dir = 161 - angleRoad = [89;269]
+
+Debug: nearList=[(0.211908378315242, 50486, -70.70958227292522, -33.40475012736432, -93.82227474772631)]
+PointsToCheck: 5
+Input i: 21
+Input j: 22
+Searching for alt j (22)
+solution found!
+i: 21  &   j: 22
+0.223659
+------------------------
+Debug: row=[(-70.70957999999996, -33.40474999999998)]
+Debug: gpsPoints=-70.70727-33.40438
+Debug: [23]: nearFID = [50387;50387] angleNear = [172;172] - dir = 82 - angleRoad = [82;262]
+Debug: [23]: nearFID = [50531;50387] angleNear = [88;88] - dir = 82 - angleRoad = [178;358]
+Debug: [23]: nearFID = [50354;50387] angleNear = [86;86] - dir = 82 - angleRoad = [176;356]
+
+Debug: nearList=[(0.852295006932722, 50387, -70.70726879802957, -33.404387618033006, 172.4616236037942)]
+PointsToCheck: 5
+Input i: 22
+Input j: 23
+Searching for alt j (23)
+solution found!
+i: 22  &   j: 23
+0.223125
+------------------------
+Debug: row=[(-70.70726999999994, -33.40437999999995)]
+Debug: gpsPoints=-70.70551-33.40438
+Debug: [24]: nearFID = [76112;76112] angleNear = [132;132] - dir = 17 - angleRoad = [42;222]
+Debug: [24]: nearFID = [50454;76112] angleNear = [76;76] - dir = 17 - angleRoad = [166;346]
+Debug: [24]: nearFID = [76111;76112] angleNear = [57;57] - dir = 17 - angleRoad = [147;327]
+
+Debug: nearList=[(0.5023924612737376, 76112, -70.70550603478092, -33.40438307527734, 132.75928687995452)]
+PointsToCheck: 5
+Input i: 23
+Input j: 24
+Searching for alt j (24)
+solution found!
+i: 23  &   j: 24
+0.171064
+------------------------
+Debug: row=[(-70.70550999999995, -33.40437999999995)]
+Debug: gpsPoints=-70.70457-33.40357
+Debug: [25]: nearFID = [50140;50140] angleNear = [-10;350] - dir = 81 - angleRoad = [80;260]
+Debug: [25]: nearFID = [50577;50140] angleNear = [-115;245] - dir = 81 - angleRoad = [155;335]
+Debug: [25]: nearFID = [50141;50140] angleNear = [-80;280] - dir = 81 - angleRoad = [10;190]
+Debug: [25]: nearFID = [50192;50140] angleNear = [-80;280] - dir = 81 - angleRoad = [10;190]
+
+Debug: nearList=[(3.1414404745113234, 50140, -70.70457631998319, -33.403542176634, -10.786486375310876)]
+PointsToCheck: 5
+Input i: 24
+Input j: 25
+Searching for alt j (25)
+solution found!
+i: 24  &   j: 25
+0.166561
+------------------------
+Debug: row=[(-70.70456999999993, -33.403569999999945)]
+Debug: gpsPoints=-70.7031-33.40344
+Debug: [26]: nearFID = [76110;76110] angleNear = [-6;354] - dir = 77 - angleRoad = [84;264]
+Debug: [26]: nearFID = [76570;76110] angleNear = [116;116] - dir = 77 - angleRoad = [26;206]
+Debug: [26]: nearFID = [76109;76110] angleNear = [55;55] - dir = 77 - angleRoad = [145;325]
+Debug: [26]: nearFID = [76573;76110] angleNear = [55;55] - dir = 77 - angleRoad = [145;325]
+
+Debug: nearList=[(5.7982525521163195, 76110, -70.70310663346801, -33.40338801878795, -6.109308445380347)]
+PointsToCheck: 5
+Input i: 25
+Input j: 26
+Searching for alt j (26)
+solution found!
+i: 25  &   j: 26
+0.137785
+------------------------
+Debug: row=[(-70.70309999999995, -33.40343999999993)]
+Debug: gpsPoints=-70.7031-33.40344
+Debug: [27]: nearFID = [76110;76110] angleNear = [-6;354] - dir = 77 - angleRoad = [84;264]
+Debug: [27]: nearFID = [76570;76110] angleNear = [116;116] - dir = 77 - angleRoad = [26;206]
+Debug: [27]: nearFID = [76109;76110] angleNear = [55;55] - dir = 77 - angleRoad = [145;325]
+Debug: [27]: nearFID = [76573;76110] angleNear = [55;55] - dir = 77 - angleRoad = [145;325]
+
+Debug: nearList=[(5.7982525521163195, 76110, -70.70310663346801, -33.40338801878795, -6.109308445380347)]
+PointsToCheck: 5
+Input i: 26
+Input j: 27
+Searching for alt j (27)
+solution found!
+i: 26  &   j: 27
+0.0
+------------------------
+Debug: row=[(-70.70309999999995, -33.40343999999993)]
+Debug: gpsPoints=-70.70154-33.40327
+Debug: [28]: nearFID = [76574;76574] angleNear = [-7;353] - dir = 81 - angleRoad = [83;263]
+Debug: [28]: nearFID = [50578;76574] angleNear = [64;64] - dir = 81 - angleRoad = [154;334]
+Debug: [28]: nearFID = [50012;76574] angleNear = [48;48] - dir = 81 - angleRoad = [138;318]
+Debug: [28]: nearFID = [50013;76574] angleNear = [48;48] - dir = 81 - angleRoad = [138;318]
+
+Debug: nearList=[(7.643868345014477, 76574, -70.7015512277666, -33.40320172788812, -7.853571190975799)]
+PointsToCheck: 5
+Input i: 27
+Input j: 28
+Searching for alt j (28)
+solution found!
+i: 27  &   j: 28
+0.146189
+------------------------
+Debug: row=[(-70.70153999999997, -33.403269999999964)]
+Debug: gpsPoints=-70.69926-33.40337
+Debug: [29]: nearFID = [50046;50046] angleNear = [5;5] - dir = 94 - angleRoad = [95;275]
+
+Debug: nearList=[(7.441042357960499, 50046, -70.69925282314067, -33.40330318077511, 5.147670953717268)]
+PointsToCheck: 5
+Input i: 28
+Input j: 29
+Searching for alt j (29)
+solution found!
+i: 28  &   j: 29
+0.214733
+------------------------
+Debug: row=[(-70.69925999999998, -33.40336999999994)]
+Debug: gpsPoints=-70.69845-33.40306
+Debug: [30]: nearFID = [49989;49989] angleNear = [94;94] - dir = 6 - angleRoad = [4;184]
+Debug: [30]: nearFID = [49990;49989] angleNear = [-174;186] - dir = 6 - angleRoad = [96;276]
+Debug: [30]: nearFID = [50055;49989] angleNear = [174;174] - dir = 6 - angleRoad = [84;264]
+
+Debug: nearList=[(1.931407644309143, 49989, -70.69842930461326, -33.403061394068395, 94.59172064528559)]
+PointsToCheck: 5
+Input i: 29
+Input j: 30
+Searching for alt j (30)
+solution found!
+i: 29  &   j: 30
+0.107445
+------------------------
+Debug: row=[(-70.69844999999998, -33.40305999999998)]
+Debug: gpsPoints=-70.6984-33.40275
+Debug: [31]: nearFID = [49989;49989] angleNear = [94;94] - dir = 135 - angleRoad = [4;184]
+Debug: [31]: nearFID = [49834;49989] angleNear = [5;5] - dir = 135 - angleRoad = [95;275]
+Debug: [31]: nearFID = [49835;49989] angleNear = [5;5] - dir = 135 - angleRoad = [95;275]
+
+Debug: nearList=[(0.047516405775024785, 49989, -70.69839949085474, -33.4027500342966, 94.59169165255278)]
+PointsToCheck: 5
+Input i: 30
+Input j: 31
+Searching for alt j (31)
+solution found!
+i: 30  &   j: 31
+0.034641
+============================ Results ====================================
+('Points with not solution: ', [(12, 50593, 50787)])
+count_getMidPoint = 1
+count_str2datetime = 31
+count_gpsDataDict = 1
+count_route_solver = 32
+count_near_segments = 31
+count_acceptSnapPoints = 1
+count_clean = 1
+count_solverForIAndJ = 30
+count_mapMatch = 30
+count_compareFID = 1
+Time of execution(computacional): 2.226
+
+Time of execution(fin-inicio): 0:02:22.588000
+=========================================================================

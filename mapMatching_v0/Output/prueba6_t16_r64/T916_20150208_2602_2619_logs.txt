@@ -1,0 +1,236 @@
+T916_20150208_2602_2619
+gps dictionary done...
+midPoint : (-70.7008383333,-33.4039655556)
+n: 18
+-----------
+Accepted: 1(49989)
+
+============================ Parameters ====================================
+Sample frencuency: 10
+
+Points Snapped: 18
+
+Speed tolerance range: 8
+
+Search Radius: 64 Meters
+
+============================================================================
+------------------------
+PointsToCheck: 5
+Input i: 1 FID: 49989
+Input j: 2 FID: 49719
+Searching for alt j (2)
+('Started_FID_i: ', 49989)
+solution found!
+i: 1  &   j: 2
+FID = i: 49989  &   j: 49719
+------------------------
+PointsToCheck: 5
+Input i: 2 FID: 49719
+Input j: 3 FID: 49683
+Searching for alt j (3)
+('Started_FID_i: ', 49719)
+solution found!
+i: 2  &   j: 3
+FID = i: 49719  &   j: 49778
+------------------------
+PointsToCheck: 5
+Input i: 3 FID: 49683
+Input j: 4 FID: 49657
+Searching for alt j (4)
+('Started_FID_i: ', 49778)
+solution found!
+i: 3  &   j: 4
+FID = i: 49778  &   j: 49657
+------------------------
+PointsToCheck: 5
+Input i: 4 FID: 49657
+Input j: 5 FID: 50002
+Searching for alt j (5)
+('Started_FID_i: ', 49657)
+solution found!
+i: 4  &   j: 5
+FID = i: 49657  &   j: 50002
+------------------------
+PointsToCheck: 5
+Input i: 5 FID: 50002
+Input j: 6 FID: 50002
+Searching for alt j (6)
+('Started_FID_i: ', 50002)
+solution found!
+i: 5  &   j: 6
+FID = i: 50002  &   j: 50002
+------------------------
+PointsToCheck: 5
+Input i: 6 FID: 50002
+Input j: 7 FID: 50578
+Searching for alt j (7)
+('Started_FID_i: ', 50002)
+solution found!
+i: 6  &   j: 7
+FID = i: 50002  &   j: 50578
+------------------------
+PointsToCheck: 5
+Input i: 7 FID: 50578
+Input j: 8 FID: 50951
+Searching for alt j (8)
+('Started_FID_i: ', 50578)
+solution found!
+i: 7  &   j: 8
+FID = i: 50578  &   j: 50871
+------------------------
+PointsToCheck: 5
+Input i: 8 FID: 50951
+Input j: 9 FID: 50952
+Searching for alt j (9)
+('Started_FID_i: ', 50871)
+Searching for alt i (8)
+('Started_FID_j: ', 50952)
+solution found!
+i: 8  &   j: 9
+FID = i: 50951  &   j: 50952
+------------------------
+PointsToCheck: 5
+Input i: 9 FID: 50952
+Input j: 10 FID: 50768
+Searching for alt j (10)
+('Started_FID_i: ', 50952)
+solution found!
+i: 9  &   j: 10
+FID = i: 50952  &   j: 50768
+------------------------
+PointsToCheck: 5
+Input i: 10 FID: 50768
+Input j: 11 FID: 50768
+Searching for alt j (11)
+('Started_FID_i: ', 50768)
+Searching for alt i (10)
+('Started_FID_j: ', 50768)
+solution found!
+i: 10  &   j: 11
+FID = i: 50767  &   j: 50768
+------------------------
+PointsToCheck: 5
+Input i: 11 FID: 50768
+Input j: 12 FID: 50768
+Searching for alt j (12)
+('Started_FID_i: ', 50768)
+solution found!
+i: 11  &   j: 12
+FID = i: 50768  &   j: 50768
+------------------------
+PointsToCheck: 5
+Input i: 12 FID: 50768
+Input j: 13 FID: 76571
+Searching for alt j (13)
+('Started_FID_i: ', 50768)
+solution found!
+i: 12  &   j: 13
+FID = i: 50768  &   j: 76117
+------------------------
+PointsToCheck: 5
+Input i: 13 FID: 76571
+Input j: 14 FID: 76571
+Searching for alt j (14)
+('Started_FID_i: ', 76117)
+Searching for alt i (13)
+('Started_FID_j: ', 76571)
+Searching for alt j (14)
+('Started_FID_i: ', 50768)
+solution found!
+i: 12  &   j: 14
+FID = i: 50768  &   j: 76571
+Routing...
+12-->14 - Assign List:[50768, 76571]
+Forcing points between 12 and 14
+13
+(1.3110257705218039e-05, 76571, -70.70373872080717, -33.40520668271403)
+('assign: ', ((-70.70373872080717, -33.40520668271403), 76571))
+------------------------
+PointsToCheck: 5
+Input i: 14 FID: 76571
+Input j: 15 FID: 76574
+Searching for alt j (15)
+('Started_FID_i: ', 76571)
+Searching for alt i (14)
+('Started_FID_j: ', 76574)
+Searching for alt j (15)
+('Started_FID_i: ', 76571)
+solution found!
+i: 13  &   j: 15
+FID = i: 76571  &   j: 76574
+Routing...
+13-->15 - Assign List:[76571, 76574]
+Forcing points between 13 and 15
+14
+(1.2308711842767978e-05, 76571, -70.70271941040387, -33.403486274140654)
+('assign: ', ((-70.70271941040387, -33.403486274140654), 76571))
+------------------------
+PointsToCheck: 5
+Input i: 15 FID: 76574
+Input j: 16 FID: 50046
+Searching for alt j (16)
+('Started_FID_i: ', 76574)
+Searching for alt i (15)
+('Started_FID_j: ', 50046)
+Searching for alt j (16)
+('Started_FID_i: ', 76571)
+Searching for alt i (14)
+('Started_FID_j: ', 50046)
+Searching for alt j (17)
+('Started_FID_i: ', 76571)
+Searching for alt i (14)
+('Started_FID_j: ', 49989)
+Searching for alt j (17)
+('Started_FID_i: ', 76571)
+solution found!
+i: 13  &   j: 17
+FID = i: 76571  &   j: 49989
+Routing...
+13-->17 - Assign List:[49978, 49989, 49990, 50004, 50012, 50018, 50024, 50042, 50045, 50046, 76571, 76574]
+Forcing points between 13 and 17
+14
+(1.2308711842767978e-05, 76571, -70.70271941040387, -33.403486274140654)
+('assign: ', ((-70.70271941040387, -33.403486274140654), 76571))
+Forcing points between 13 and 17
+15
+(2.9375644717110386e-05, 76574, -70.70154337588814, -33.40320081898075)
+('assign: ', ((-70.70154337588814, -33.40320081898075), 76574))
+Forcing points between 13 and 17
+16
+(5.36082556336819e-05, 50046, -70.69907596094862, -33.40331654411966)
+('assign: ', ((-70.69907596094862, -33.40331654411966), 50046))
+------------------------
+PointsToCheck: 5
+Input i: 16 FID: 50046
+Input j: 17 FID: 49989
+Searching for alt j (17)
+('Started_FID_i: ', 50046)
+solution found!
+i: 16  &   j: 17
+FID = i: 50046  &   j: 49989
+------------------------
+PointsToCheck: 5
+Input i: 17 FID: 49989
+Input j: 18 FID: 49989
+Searching for alt j (18)
+('Started_FID_i: ', 49989)
+solution found!
+i: 17  &   j: 18
+FID = i: 49989  &   j: 49989
+============================ Results ====================================
+('Points with not solution: ', [(3, 49778, 49683), (10, 50767, 50768)])
+count_getMidPoint = 1
+count_str2datetime = 0
+count_gpsDataDict = 1
+count_route_solver = 179
+count_near_segments = 18
+count_acceptSnapPoints = 1
+count_clean = 1
+count_solverForIAndJ = 17
+count_mapMatch = 17
+count_compareFID = 1
+Time of execution(computacional): 1.558
+
+Time of execution(fin-inicio): 0:01:55.827000
+=========================================================================

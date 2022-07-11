@@ -1,0 +1,263 @@
+T386_20150212_1389_1466
+Time function( gpsDataDict ): 0:00:00.071000
+gps dictionary done...
+Time function( getMidPoint ): 0:00:00
+midPoint : (-70.6773984615,-33.4407997436)
+n: 78
+-----------
+Time function( near_segments ): 0:00:00.423000
+Accepted: 1(22814)
+
+============================ Parameters ====================================
+Sample frencuency: 10
+
+Points Snapped: 78
+
+Speed tolerance range: 8
+
+Search Radius: 16 Meters
+
+============================================================================
+------------------------
+Time function( near_segments ): 0:00:01.003000
+PointsToCheck: 5
+Input i: 1 FID: 22813
+Input j: 2 FID: 22721
+Searching for alt j (2)
+('Started_FID_i: ', 22814)
+Time function( route_solver ): 0:00:00.571000
+solution found!
+i: 1  &   j: 2
+FID = i: 22814  &   j: 22721
+Time function( solverForIAndJ ): 0:00:00.571000
+Time function( mapMatch ): 0:00:01.574000
+------------------------
+Time function( near_segments ): 0:00:00.940000
+PointsToCheck: 5
+Input i: 2 FID: 22721
+Input j: 3 FID: 22433
+Searching for alt j (3)
+('Started_FID_i: ', 22721)
+Time function( route_solver ): 0:00:00.574000
+solution found!
+i: 2  &   j: 3
+FID = i: 22721  &   j: 22433
+Time function( solverForIAndJ ): 0:00:00.574000
+Time function( mapMatch ): 0:00:01.514000
+------------------------
+Time function( near_segments ): 0:00:00.943000
+PointsToCheck: 5
+Input i: 3 FID: 22433
+Input j: 4 FID: 22255
+Searching for alt j (4)
+('Started_FID_i: ', 22433)
+Time function( route_solver ): 0:00:00.760000
+solution found!
+i: 3  &   j: 4
+FID = i: 22433  &   j: 22262
+Time function( solverForIAndJ ): 0:00:00.761000
+Time function( mapMatch ): 0:00:01.704000
+------------------------
+Time function( near_segments ): 0:00:01.329000
+PointsToCheck: 5
+Input i: 4 FID: 22255
+Input j: 5 FID: 21919
+Searching for alt j (5)
+('Started_FID_i: ', 22262)
+Time function( route_solver ): 0:00:00.783000
+Time function( route_solver ): 0:00:00.711000
+Time function( route_solver ): 0:00:00.632000
+Time function( route_solver ): 0:00:00.556000
+Searching for alt i (4)
+('Started_FID_j: ', 21919)
+Time function( route_solver ): 0:00:00.633000
+Time function( route_solver ): 0:00:00.629000
+Time function( route_solver ): 0:00:00.738000
+Time function( route_solver ): 0:00:01.020000
+Time function( route_solver ): 0:00:00.620000
+Time function( route_solver ): 0:00:00.539000
+Time function( route_solver ): 0:00:00.541000
+Time function( route_solver ): 0:00:00.512000
+Time function( route_solver ): 0:00:00.507000
+Time function( route_solver ): 0:00:00.509000
+Searching for alt j (5)
+('Started_FID_i: ', 22433)
+Time function( route_solver ): 0:00:00.565000
+solution found!
+i: 3  &   j: 5
+FID = i: 22433  &   j: 21919
+Time function( solverForIAndJ ): 0:00:09.497000
+Routing...
+3-->5 - Assign List:[21919, 21932, 21979, 22017, 22076, 22096, 22127, 22208, 22262, 22275, 22295, 22330, 22356, 22409, 22416, 22433]
+Forcing points between 3 and 5
+4
+(1.3089052554479807e-06, 22262, -70.67579069646835, -33.536911108225915)
+('assign: ', ((-70.67579069646835, -33.536911108225915), 22262))
+Time function( mapMatch ): 0:00:11.483000
+------------------------
+Time function( near_segments ): 0:00:00.975000
+PointsToCheck: 5
+Input i: 5 FID: 21919
+Input j: 6 FID: 21769
+Searching for alt j (6)
+('Started_FID_i: ', 21919)
+Time function( route_solver ): 0:00:00.580000
+solution found!
+i: 5  &   j: 6
+FID = i: 21919  &   j: 21769
+Time function( solverForIAndJ ): 0:00:00.580000
+Time function( mapMatch ): 0:00:01.555000
+------------------------
+Time function( near_segments ): 0:00:00.908000
+PointsToCheck: 5
+Input i: 6 FID: 21769
+Input j: 7 FID: 34032
+Searching for alt j (7)
+('Started_FID_i: ', 21769)
+Time function( route_solver ): 0:00:00.625000
+Time function( route_solver ): 0:00:00.586000
+Searching for alt i (6)
+('Started_FID_j: ', 34032)
+Searching for alt j (7)
+('Started_FID_i: ', 21919)
+Time function( route_solver ): 0:00:00.572000
+solution found!
+i: 5  &   j: 7
+FID = i: 21919  &   j: 34032
+Time function( solverForIAndJ ): 0:00:01.783000
+Routing...
+5-->7 - Assign List:[21769, 21804, 21843, 21877, 21899, 21919, 34031, 34032, 34061]
+Forcing points between 5 and 7
+6
+(1.7711934628986702e-05, 21769, -70.68268429254252, -33.53462818464468)
+('assign: ', ((-70.68268429254252, -33.53462818464468), 21769))
+Time function( mapMatch ): 0:00:03.931000
+------------------------
+Time function( near_segments ): 0:00:01.216000
+PointsToCheck: 5
+Input i: 7 FID: 34032
+Input j: 8 FID: 20612
+Searching for alt j (8)
+('Started_FID_i: ', 34032)
+Time function( route_solver ): 0:00:01.198000
+Time function( route_solver ): 0:00:00.902000
+Searching for alt i (7)
+('Started_FID_j: ', 20612)
+Time function( route_solver ): 0:00:00.737000
+Time function( route_solver ): 0:00:00.924000
+Searching for alt j (8)
+('Started_FID_i: ', 21769)
+Time function( route_solver ): 0:00:01.101000
+solution found!
+i: 6  &   j: 8
+FID = i: 21769  &   j: 20612
+Time function( solverForIAndJ ): 0:00:04.862000
+Routing...
+6-->8 - Assign List:[20612, 20714, 20797, 20909, 21001, 21769, 34031, 34032, 34061]
+Forcing points between 6 and 8
+7
+(5.5552284821480656e-05, 34032, -70.68092357997845, -33.53123051619162)
+('assign: ', ((-70.68092357997845, -33.53123051619162), 34032))
+Time function( mapMatch ): 0:00:07.338000
+------------------------
+Time function( near_segments ): 0:00:00.892000
+PointsToCheck: 5
+Input i: 8 FID: 20612
+Input j: 9 FID: 18393
+Searching for alt j (9)
+('Started_FID_i: ', 20612)
+Time function( route_solver ): 0:00:00.535000
+solution found!
+i: 8  &   j: 9
+FID = i: 20612  &   j: 18393
+Time function( solverForIAndJ ): 0:00:00.535000
+Time function( mapMatch ): 0:00:01.428000
+------------------------
+Time function( near_segments ): 0:00:00.859000
+PointsToCheck: 5
+Input i: 9 FID: 18393
+Input j: 10 FID: 34571
+Searching for alt j (10)
+('Started_FID_i: ', 18393)
+Time function( route_solver ): 0:00:00.503000
+solution found!
+i: 9  &   j: 10
+FID = i: 18393  &   j: 34571
+Time function( solverForIAndJ ): 0:00:00.503000
+Time function( mapMatch ): 0:00:01.362000
+------------------------
+Time function( near_segments ): 0:00:00.903000
+PointsToCheck: 5
+Input i: 10 FID: 34571
+Input j: 11 FID: 13493
+Searching for alt j (11)
+('Started_FID_i: ', 34571)
+Time function( route_solver ): 0:00:00.525000
+solution found!
+i: 10  &   j: 11
+FID = i: 34571  &   j: 13493
+Time function( solverForIAndJ ): 0:00:00.525000
+Time function( mapMatch ): 0:00:01.428000
+------------------------
+Time function( near_segments ): 0:00:00.880000
+PointsToCheck: 5
+Input i: 11 FID: 13493
+Input j: 12 FID: 13493
+Searching for alt j (12)
+('Started_FID_i: ', 13493)
+Time function( route_solver ): 0:00:00.512000
+solution found!
+i: 11  &   j: 12
+FID = i: 13493  &   j: 13493
+Time function( solverForIAndJ ): 0:00:00.512000
+Time function( mapMatch ): 0:00:01.392000
+------------------------
+Time function( near_segments ): 0:00:00.843000
+PointsToCheck: 5
+Input i: 12 FID: 13493
+Input j: 13 FID: 7801
+Searching for alt j (13)
+('Started_FID_i: ', 13493)
+Time function( route_solver ): 0:00:00.565000
+solution found!
+i: 12  &   j: 13
+FID = i: 13493  &   j: 7801
+Time function( solverForIAndJ ): 0:00:00.565000
+Time function( mapMatch ): 0:00:01.408000
+------------------------
+Time function( near_segments ): 0:00:00.851000
+PointsToCheck: 5
+Input i: 13 FID: 7801
+Input j: 14 FID: 6433
+Searching for alt j (14)
+('Started_FID_i: ', 7801)
+Time function( route_solver ): 0:00:00.523000
+solution found!
+i: 13  &   j: 14
+FID = i: 7801  &   j: 6433
+Time function( solverForIAndJ ): 0:00:00.523000
+Time function( mapMatch ): 0:00:01.374000
+------------------------
+Time function( near_segments ): 0:00:00.838000
+PointsToCheck: 5
+Input i: 14 FID: 6433
+Input j: 15 FID: 34603
+Searching for alt j (15)
+('Started_FID_i: ', 6433)
+Time function( route_solver ): 0:00:00.534000
+solution found!
+i: 14  &   j: 15
+FID = i: 6433  &   j: 34603
+Time function( solverForIAndJ ): 0:00:00.534000
+Time function( mapMatch ): 0:00:01.372000
+------------------------
+Time function( near_segments ): 0:00:00.847000
+PointsToCheck: 5
+Input i: 15 FID: 34603
+Input j: 16 FID: 77561
+Searching for alt j (16)
+('Started_FID_i: ', 34603)
+Time function( route_solver ): 0:00:00.538000
+solution found!
+i: 15  &   j: 16
+FID = i: 346

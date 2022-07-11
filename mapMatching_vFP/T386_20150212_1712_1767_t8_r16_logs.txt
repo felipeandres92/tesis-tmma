@@ -1,0 +1,1630 @@
+('Serie: ', [1])
+T386_20150212_1712_1767
+Time function( gpsDataDict ): 0:00:00.019000
+gps dictionary done...
+Time function( getMidPoint ): 0:00:00
+midPoint : (-70.6896483636,-33.4206763636)
+n: 55
+-----------
+Debug: True
+Debug: index = 1 - 55
+Debug: nearList=[(0.7320291103686044, 48513, -70.69451839522395, -33.39908353860258, 11.767666714990701)]
+Time function( near_segments ): 0:00:03.466000
+Accepted: 1(48513)
+
+============================ Parameters ====================================
+Sample frencuency: 10
+
+Points Snapped: 55
+
+Speed tolerance range: 8
+
+Search Radius: 16 Meters
+
+============================================================================
+------------------------
+Debug: False
+Debug: nearList=[(2.608751364213879, 48890, -70.69385378314823, -33.399798347437866, 110.78689476290347)]
+Time function( near_segments ): 0:00:05.278000
+PointsToCheck: 5
+Input i: 1 FID: 48513
+Input j: 2 FID: 48890
+Searching for alt j (2)
+('Started_FID_i: ', 48513)
+Time function( route_solver ): 0:00:00.638000
+solution found!
+i: 1  &   j: 2
+iFID: 48513  &   jFID: 48890
+0.152821
+Time function( solverForIAndJ ): 0:00:00.638000
+Time function( mapMatch ): 0:00:05.918000
+------------------------
+Debug: False
+Debug: nearList=[(1.611793130151541, 48890, -70.69393380212962, -33.39997515739757, 110.78693307002273)]
+Time function( near_segments ): 0:00:05.002000
+PointsToCheck: 5
+Input i: 2 FID: 48890
+Input j: 3 FID: 48890
+Searching for alt j (3)
+('Started_FID_i: ', 48890)
+Time function( route_solver ): 0:00:00.615000
+Searching for alt i (2)
+('Started_FID_j: ', 48890)
+Searching for alt j (3)
+('Started_FID_i: ', 48513)
+Time function( route_solver ): 0:00:00.961000
+Debug: False
+Debug: False
+Debug: nearList=[(0.24452954650108605, 48891, -70.69412055739213, -33.400152154584305, -167.75719919995197)]
+Time function( near_segments ): 0:00:04.459000
+Searching for alt j (4)
+('Started_FID_i: ', 48513)
+Time function( route_solver ): 0:00:00.580000
+solution found!
+i: 1  &   j: 4
+iFID: 48513  &   jFID: 48891
+0.226142
+Time function( solverForIAndJ ): 0:00:06.616000
+Routing...
+1-->4 - Assign List:[48513, 48664, 48890, 48891]
+Forcing points between 1 and 4
+2
+(2.7326175688542635e-05, 48890, -70.6938551046747, -33.39980126688313)
+('assign: ', ((-70.6938551046747, -33.39980126688313), 48890))
+Forcing points between 1 and 4
+3
+(1.6883214057167568e-05, 48890, -70.69393461866339, -33.39997696113504)
+('assign: ', ((-70.69393461866339, -33.39997696113504), 48890))
+Time function( mapMatch ): 0:00:13.400000
+------------------------
+PointsToCheck: 5
+Input i: 3 FID: 48890
+Input j: 4 FID: 48891
+Searching for alt j (4)
+('Started_FID_i: ', 48890)
+Time function( route_solver ): 0:00:00.628000
+solution found!
+i: 3  &   j: 4
+iFID: 48890  &   jFID: 48891
+0.052133
+Time function( solverForIAndJ ): 0:00:00.628000
+Time function( mapMatch ): 0:00:00.628000
+------------------------
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: nearList=[(0.24275549285655107, 76707, -70.69677061016121, -33.39993787194602, -13.522511318836424)]
+Time function( near_segments ): 0:00:04.213000
+PointsToCheck: 5
+Input i: 4 FID: 48891
+Input j: 5 FID: 76707
+Searching for alt j (5)
+('Started_FID_i: ', 48891)
+Time function( route_solver ): 0:00:00.569000
+Searching for alt i (4)
+('Started_FID_j: ', 76707)
+Searching for alt j (5)
+('Started_FID_i: ', 48890)
+Time function( route_solver ): 0:00:00.586000
+solution found!
+i: 3  &   j: 5
+iFID: 48890  &   jFID: 76707
+0.301566
+Time function( solverForIAndJ ): 0:00:01.155000
+Routing...
+3-->5 - Assign List:[48812, 48890, 48891, 76707, 77189]
+Forcing points between 3 and 5
+4
+(2.219553110237203e-06, 48891, -70.69412039743881, -33.40015218367994)
+('assign: ', ((-70.69412039743881, -33.40015218367994), 48891))
+Time function( mapMatch ): 0:00:06.700000
+------------------------
+Debug: False
+Debug: nearList=[(0.030351508419151102, 76707, -70.69707992371295, -33.4000002660689, 166.47766438145516)]
+Time function( near_segments ): 0:00:04.444000
+PointsToCheck: 5
+Input i: 5 FID: 76707
+Input j: 6 FID: 76707
+Searching for alt j (6)
+('Started_FID_i: ', 76707)
+Time function( route_solver ): 0:00:00.593000
+solution found!
+i: 5  &   j: 6
+iFID: 76707  &   jFID: 76707
+0.029593
+Time function( solverForIAndJ ): 0:00:00.594000
+Time function( mapMatch ): 0:00:05.038000
+------------------------
+Debug: False
+Debug: nearList=[(3.022340814701433, 76101, -70.6985375129204, -33.400169780361715, 89.53819311634072)]
+Time function( near_segments ): 0:00:03.990000
+PointsToCheck: 5
+Input i: 6 FID: 76707
+Input j: 7 FID: 76101
+Searching for alt j (7)
+('Started_FID_i: ', 76707)
+Time function( route_solver ): 0:00:00.544000
+Searching for alt i (6)
+('Started_FID_j: ', 76101)
+Searching for alt j (7)
+('Started_FID_i: ', 76707)
+Time function( route_solver ): 0:00:00.535000
+solution found!
+i: 5  &   j: 7
+iFID: 76707  &   jFID: 76101
+0.196123
+Time function( solverForIAndJ ): 0:00:01.079000
+Routing...
+5-->7 - Assign List:[76098, 76101, 76707, 76708]
+Forcing points between 5 and 7
+6
+(2.751189701141935e-07, 76707, -70.69707994559981, -33.40000026968696)
+('assign: ', ((-70.69707994559981, -33.40000026968696), 76707))
+Time function( mapMatch ): 0:00:06.311000
+------------------------
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: nearList=[(1.3614833150940484, 49435, -70.69728369207405, -33.40171433553444, -110.68250787738309), (8.665870630470307, 77188, -70.69718322180064, -33.401681591193544, 68.67888387988299)]
+Time function( near_segments ): 0:00:04.398000
+PointsToCheck: 5
+Input i: 7 FID: 76101
+Input j: 8 FID: 49435
+Searching for alt j (8)
+('Started_FID_i: ', 76101)
+Time function( route_solver ): 0:00:00.566000
+Time function( route_solver ): 0:00:00.634000
+Searching for alt i (7)
+('Started_FID_j: ', 49435)
+Searching for alt j (8)
+('Started_FID_i: ', 76707)
+Time function( route_solver ): 0:00:00.615000
+Time function( route_solver ): 0:00:00.628000
+Searching for alt i (6)
+('Started_FID_j: ', 49435)
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: nearList=[(3.258601146117262, 50075, -70.69769685763649, -33.40342073830549, 5.146767408783674)]
+Time function( near_segments ): 0:00:04.979000
+Searching for alt j (9)
+('Started_FID_i: ', 76707)
+Time function( route_solver ): 0:00:00.553000
+solution found!
+i: 6  &   j: 9
+iFID: 76707  &   jFID: 50075
+0.480724
+Time function( solverForIAndJ ): 0:00:07.975000
+Routing...
+6-->9 - Assign List:[49435, 49444, 49763, 50075, 76097, 76578, 76579, 76707, 76708]
+Forcing points between 6 and 9
+7
+(3.248769099791152e-05, 76101, -70.698537513809, -33.400169687808884)
+('assign: ', ((-70.698537513809, -33.400169687808884), 76101))
+Forcing points between 6 and 9
+8
+(1.4264956052717567e-05, 49435, -70.69728300805899, -33.40171585485874)
+('assign: ', ((-70.69728300805899, -33.40171585485874), 49435))
+Time function( mapMatch ): 0:00:14.610000
+------------------------
+PointsToCheck: 5
+Input i: 8 FID: 49435
+Input j: 9 FID: 50075
+Searching for alt j (9)
+('Started_FID_i: ', 49435)
+Time function( route_solver ): 0:00:00.548000
+Searching for alt i (8)
+('Started_FID_j: ', 50075)
+Time function( route_solver ): 0:00:00.600000
+Time function( route_solver ): 0:00:00.574000
+Searching for alt j (9)
+('Started_FID_i: ', 76101)
+Time function( route_solver ): 0:00:00.545000
+solution found!
+i: 7  &   j: 9
+iFID: 76101  &   jFID: 50075
+0.496777
+Time function( solverForIAndJ ): 0:00:02.267000
+Routing...
+7-->9 - Assign List:[49435, 49444, 49763, 50075, 76097, 76100, 76101, 76578, 76579]
+Forcing points between 7 and 9
+8
+(1.4264956052717567e-05, 49435, -70.69728300805899, -33.40171585485874)
+('assign: ', ((-70.69728300805899, -33.40171585485874), 49435))
+Time function( mapMatch ): 0:00:03.460000
+------------------------
+Debug: False
+Debug: False
+Debug: False
+Debug: nearList=[(9.669929766903516, 50046, -70.6991206735142, -33.40331316575675, 5.1475997185281654)]
+Time function( near_segments ): 0:00:04.014000
+PointsToCheck: 5
+Input i: 9 FID: 50075
+Input j: 10 FID: 50046
+Searching for alt j (10)
+('Started_FID_i: ', 50075)
+Time function( route_solver ): 0:00:00.539000
+solution found!
+i: 9  &   j: 10
+iFID: 50075  &   jFID: 50046
+0.132975
+Time function( solverForIAndJ ): 0:00:00.539000
+Time function( mapMatch ): 0:00:04.553000
+------------------------
+Debug: False
+Debug: False
+Debug: nearList=[(1.1084331219559984, 50262, -70.69634106029002, -33.40373371765025, -111.83866501171873), (8.365945821747546, 77188, -70.69624624517651, -33.40370252734684, 68.64048761547573)]
+Time function( near_segments ): 0:00:04.087000
+PointsToCheck: 5
+Input i: 10 FID: 50046
+Input j: 11 FID: 50262
+Searching for alt j (11)
+('Started_FID_i: ', 50046)
+Time function( route_solver ): 0:00:00.526000
+Time function( route_solver ): 0:00:00.616000
+Searching for alt i (10)
+('Started_FID_j: ', 50262)
+Searching for alt j (11)
+('Started_FID_i: ', 50075)
+Time function( route_solver ): 0:00:00.588000
+Time function( route_solver ): 0:00:00.623000
+Searching for alt i (9)
+('Started_FID_j: ', 50262)
+Debug: False
+Debug: False
+Debug: nearList=[(4.519848408195921, 76725, -70.69480551746656, -33.407074259590324, -110.48203372324106), (9.939948818322314, 76714, -70.69465856540306, -33.40703181580339, 71.670344056995)]
+Time function( near_segments ): 0:00:03.996000
+Searching for alt j (12)
+('Started_FID_i: ', 50075)
+Time function( route_solver ): 0:00:00.546000
+Time function( route_solver ): 0:00:00.544000
+Searching for alt i (9)
+('Started_FID_j: ', 76725)
+Searching for alt j (12)
+('Started_FID_i: ', 49435)
+Time function( route_solver ): 0:00:00.539000
+Time function( route_solver ): 0:00:00.555000
+Searching for alt i (8)
+('Started_FID_j: ', 76725)
+Time function( route_solver ): 0:00:00.611000
+Time function( route_solver ): 0:00:00.557000
+Debug: False
+Debug: False
+Debug: nearList=[(0.16010186701213286, 52248, -70.69353163920796, -33.41012044017894, -107.75439351865676), (13.465370187832509, 76553, -70.69339188400754, -33.410083641155, 72.57359755237235)]
+Time function( near_segments ): 0:00:04.041000
+Searching for alt j (13)
+('Started_FID_i: ', 49435)
+Time function( route_solver ): 0:00:00.552000
+Time function( route_solver ): 0:00:00.537000
+Searching for alt i (8)
+('Started_FID_j: ', 52248)
+Time function( route_solver ): 0:00:00.625000
+Time function( route_solver ): 0:00:00.560000
+didn't find matching i or j
+Time function( solverForIAndJ ): 0:00:16.016000
+Time function( mapMatch ): 0:00:20.104000
+------------------------
+PointsToCheck: 5
+Input i: 11 FID: 50262
+Input j: 12 FID: 76725
+Searching for alt i (11)
+('Started_FID_j: ', 76725)
+Time function( route_solver ): 0:00:00.532000
+Time function( route_solver ): 0:00:00.548000
+Time function( route_solver ): 0:00:00.628000
+Time function( route_solver ): 0:00:00.553000
+Searching for alt j (12)
+('Started_FID_i: ', 50046)
+Time function( route_solver ): 0:00:00.549000
+solution found!
+i: 10  &   j: 12
+iFID: 50046  &   jFID: 76725
+0.691529
+Time function( solverForIAndJ ): 0:00:02.810000
+Routing...
+10-->12 - Assign List:[50046, 50056, 50066, 50075, 50078, 50262, 50398, 50829, 51029, 76581, 76725]
+Forcing points between 10 and 12
+11
+(1.1581558670849392e-05, 50262, -70.696340449958, -33.403734993083035)
+('assign: ', ((-70.696340449958, -33.403734993083035), 50262))
+Time function( mapMatch ): 0:00:03.994000
+------------------------
+PointsToCheck: 5
+Input i: 12 FID: 76725
+Input j: 13 FID: 52248
+Searching for alt j (13)
+('Started_FID_i: ', 76725)
+Time function( route_solver ): 0:00:00.572000
+Time function( route_solver ): 0:00:00.569000
+Searching for alt i (12)
+('Started_FID_j: ', 52248)
+Time function( route_solver ): 0:00:00.540000
+Time function( route_solver ): 0:00:00.554000
+Searching for alt j (13)
+('Started_FID_i: ', 50262)
+Time function( route_solver ): 0:00:00.574000
+solution found!
+i: 11  &   j: 13
+iFID: 50262  &   jFID: 52248
+0.755983
+Time function( solverForIAndJ ): 0:00:02.809000
+Routing...
+11-->13 - Assign List:[50262, 50398, 50829, 51029, 51976, 52248, 76581, 76718, 76720, 76721, 76725]
+Forcing points between 11 and 13
+12
+(4.738096992003402e-05, 76725, -70.69480328243927, -33.407079276585726)
+('assign: ', ((-70.69480328243927, -33.407079276585726), 76725))
+Time function( mapMatch ): 0:00:03.981000
+------------------------
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: nearList=[(12.497969068740288, 76553, -70.69230670144837, -33.4138558253555, 82.77358120581782)]
+Time function( near_segments ): 0:00:03.983000
+PointsToCheck: 5
+Input i: 13 FID: 52248
+Input j: 14 FID: 76552
+Searching for alt j (14)
+('Started_FID_i: ', 52248)
+Time function( route_solver ): 0:00:00.568000
+Searching for alt i (13)
+('Started_FID_j: ', 76553)
+Time function( route_solver ): 0:00:00.724000
+Time function( route_solver ): 0:00:00.602000
+Searching for alt j (14)
+('Started_FID_i: ', 76725)
+Time function( route_solver ): 0:00:00.574000
+Searching for alt i (12)
+('Started_FID_j: ', 76553)
+Time function( route_solver ): 0:00:00.550000
+Time function( route_solver ): 0:00:00.529000
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: nearList=[(3.2922072046736646, 76267, -70.69192500298223, -33.41518556065972, 81.39870393742056)]
+Time function( near_segments ): 0:00:04.008000
+Searching for alt j (15)
+('Started_FID_i: ', 76725)
+Time function( route_solver ): 0:00:00.590000
+Searching for alt i (12)
+('Started_FID_j: ', 76267)
+Time function( route_solver ): 0:00:00.573000
+Time function( route_solver ): 0:00:00.572000
+Searching for alt j (15)
+('Started_FID_i: ', 50262)
+Time function( route_solver ): 0:00:00.604000
+Searching for alt i (11)
+('Started_FID_j: ', 76267)
+Time function( route_solver ): 0:00:00.612000
+Time function( route_solver ): 0:00:00.586000
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: nearList=[(14.257934899719142, 76090, -70.68856022524322, -33.416431455961444, -160.8741189868903)]
+Time function( near_segments ): 0:00:04.048000
+Searching for alt j (16)
+('Started_FID_i: ', 50262)
+Time function( route_solver ): 0:00:00.579000
+solution found!
+i: 11  &   j: 16
+iFID: 50262  &   jFID: 76090
+1.75597
+Time function( solverForIAndJ ): 0:00:15.719000
+Routing...
+11-->16 - Assign List:[50262, 50398, 50829, 51029, 51976, 52248, 52471, 52734, 76060, 76061, 76064, 76070, 76071, 76086, 76087, 76090, 76094, 76552, 76581, 76718, 76720, 76721, 76725, 78899]
+Forcing points between 11 and 16
+12
+(4.738096992003402e-05, 76725, -70.69480328243927, -33.407079276585726)
+('assign: ', ((-70.69480328243927, -33.407079276585726), 76725))
+Forcing points between 11 and 16
+13
+(1.688293372951926e-06, 52248, -70.69353157725438, -33.41012060216521)
+('assign: ', ((-70.69353157725438, -33.41012060216521), 52248))
+Forcing points between 11 and 16
+14
+(6.406182163954652e-05, 76065, -70.69248292144768, -33.41391755697968)
+('assign: ', ((-70.69248292144768, -33.41391755697968), 76065))
+Forcing points between 11 and 16
+15
+(3.523053995039653e-05, 76267, -70.69192532890813, -33.415183746493895)
+('assign: ', ((-70.69192532890813, -33.415183746493895), 76267))
+Time function( mapMatch ): 0:00:23.912000
+------------------------
+PointsToCheck: 5
+Input i: 14 FID: 76552
+Input j: 15 FID: 76267
+Searching for alt j (15)
+('Started_FID_i: ', 76065)
+Time function( route_solver ): 0:00:00.576000
+Searching for alt i (14)
+('Started_FID_j: ', 76267)
+Time function( route_solver ): 0:00:00.585000
+Time function( route_solver ): 0:00:00.588000
+Searching for alt j (15)
+('Started_FID_i: ', 52248)
+Time function( route_solver ): 0:00:00.596000
+Searching for alt i (13)
+('Started_FID_j: ', 76267)
+Time function( route_solver ): 0:00:00.593000
+Time function( route_solver ): 0:00:00.588000
+Searching for alt j (16)
+('Started_FID_i: ', 52248)
+Time function( route_solver ): 0:00:00.536000
+solution found!
+i: 13  &   j: 16
+iFID: 52248  &   jFID: 76090
+0.999968
+Time function( solverForIAndJ ): 0:00:04.062000
+Routing...
+13-->16 - Assign List:[52248, 52471, 52734, 76060, 76061, 76064, 76070, 76071, 76086, 76087, 76090, 76094, 76552, 78899]
+Forcing points between 13 and 16
+14
+(6.406182163954652e-05, 76065, -70.69248292144768, -33.41391755697968)
+('assign: ', ((-70.69248292144768, -33.41391755697968), 76065))
+Forcing points between 13 and 16
+15
+(3.523053995039653e-05, 76267, -70.69192532890813, -33.415183746493895)
+('assign: ', ((-70.69192532890813, -33.415183746493895), 76267))
+Time function( mapMatch ): 0:00:06.256000
+------------------------
+PointsToCheck: 5
+Input i: 15 FID: 76267
+Input j: 16 FID: 54119
+Searching for alt j (16)
+('Started_FID_i: ', 76267)
+Time function( route_solver ): 0:00:00.582000
+Searching for alt i (15)
+('Started_FID_j: ', 76090)
+Searching for alt j (16)
+('Started_FID_i: ', 76065)
+Time function( route_solver ): 0:00:00.540000
+Searching for alt i (14)
+('Started_FID_j: ', 76090)
+Time function( route_solver ): 0:00:00.640000
+Time function( route_solver ): 0:00:00.544000
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: nearList=[(1.1758464709141898, 54760, -70.68320510816223, -33.41799022422113, 22.764661028472965), (12.462215958135715, 54759, -70.6831593015276, -33.417895992714726, 22.2334731816911), (14.326270047625162, 54725, -70.68327057963408, -33.418118758410046, -156.8400704226832)]
+Time function( near_segments ): 0:00:04.232000
+Searching for alt j (17)
+('Started_FID_i: ', 76065)
+Time function( route_solver ): 0:00:00.559000
+Time function( route_solver ): 0:00:00.593000
+Time function( route_solver ): 0:00:00.807000
+Searching for alt i (14)
+('Started_FID_j: ', 54760)
+Time function( route_solver ): 0:00:00.746000
+Time function( route_solver ): 0:00:01.465000
+Searching for alt j (17)
+('Started_FID_i: ', 52248)
+Time function( route_solver ): 0:00:01.855000
+solution found!
+i: 13  &   j: 17
+iFID: 52248  &   jFID: 54760
+1.534078
+Time function( solverForIAndJ ): 0:00:12.563000
+Routing...
+13-->17 - Assign List:[52248, 52471, 52734, 54760, 76060, 76061, 76064, 76070, 76071, 76086, 76087, 76090, 76092, 76094, 76552, 78899]
+Forcing points between 13 and 17
+14
+(6.406182163954652e-05, 76065, -70.69248292144768, -33.41391755697968)
+('assign: ', ((-70.69248292144768, -33.41391755697968), 76065))
+Forcing points between 13 and 17
+15
+(3.523053995039653e-05, 76267, -70.69192532890813, -33.415183746493895)
+('assign: ', ((-70.69192532890813, -33.415183746493895), 76267))
+Forcing points between 13 and 17
+16
+(1.9185116354616683e-05, 54119, -70.68849206110838, -33.41630319817236)
+('assign: ', ((-70.68849206110838, -33.41630319817236), 54119))
+Time function( mapMatch ): 0:00:17.731000
+------------------------
+PointsToCheck: 5
+Input i: 16 FID: 54119
+Input j: 17 FID: 54760
+Searching for alt j (17)
+('Started_FID_i: ', 54119)
+Time function( route_solver ): 0:00:01.316000
+Time function( route_solver ): 0:00:00.644000
+Time function( route_solver ): 0:00:00.552000
+Searching for alt i (16)
+('Started_FID_j: ', 54760)
+Time function( route_solver ): 0:00:00.636000
+Time function( route_solver ): 0:00:00.593000
+Searching for alt j (17)
+('Started_FID_i: ', 76267)
+Time function( route_solver ): 0:00:00.609000
+Time function( route_solver ): 0:00:00.784000
+Time function( route_solver ): 0:00:00.759000
+Searching for alt i (15)
+('Started_FID_j: ', 54760)
+Debug: False
+Debug: False
+Debug: nearList=[(1.8384483317545712, 55515, -70.67774869797981, -33.41996488469902, -153.89389276658667)]
+Time function( near_segments ): 0:00:04.055000
+Searching for alt j (18)
+('Started_FID_i: ', 76267)
+Time function( route_solver ): 0:00:00.598000
+Searching for alt i (15)
+('Started_FID_j: ', 55515)
+Searching for alt j (18)
+('Started_FID_i: ', 76065)
+Time function( route_solver ): 0:00:00.563000
+Searching for alt i (14)
+('Started_FID_j: ', 55515)
+Time function( route_solver ): 0:00:00.582000
+Time function( route_solver ): 0:00:00.623000
+Debug: False
+Debug: False
+Debug: nearList=[(6.378106366550837, 76157, -70.67325785177786, -33.42376088092278, -122.47990339352442), (7.528106305069148, 56657, -70.67313292527174, -33.423692006725865, 55.96101860122336)]
+Time function( near_segments ): 0:00:04.051000
+Searching for alt j (19)
+('Started_FID_i: ', 76065)
+Time function( route_solver ): 0:00:00.563000
+solution found!
+i: 14  &   j: 19
+iFID: 76065  &   jFID: 76157
+3.002512
+Time function( solverForIAndJ ): 0:00:16.928000
+Routing...
+14-->19 - Assign List:[54760, 54915, 55004, 55407, 55515, 55897, 55904, 76061, 76065, 76070, 76071, 76086, 76087, 76090, 76092, 76157, 78898]
+Forcing points between 14 and 19
+15
+(3.523053995039653e-05, 76267, -70.69192532890813, -33.415183746493895)
+('assign: ', ((-70.69192532890813, -33.415183746493895), 76267))
+Forcing points between 14 and 19
+16
+(1.9185116354616683e-05, 54119, -70.68849206110838, -33.41630319817236)
+('assign: ', ((-70.68849206110838, -33.41630319817236), 54119))
+Forcing points between 14 and 19
+17
+(1.0847380824964917e-05, 54760, -70.68320639920528, -33.41798976770068)
+('assign: ', ((-70.68320639920528, -33.41798976770068), 54760))
+Forcing points between 14 and 19
+18
+(1.7073444681998293e-05, 55515, -70.67774648938541, -33.41996579209894)
+('assign: ', ((-70.67774648938541, -33.41996579209894), 55515))
+Time function( mapMatch ): 0:00:21.458000
+------------------------
+PointsToCheck: 5
+Input i: 17 FID: 54760
+Input j: 18 FID: 55515
+Searching for alt j (18)
+('Started_FID_i: ', 54760)
+Time function( route_solver ): 0:00:00.570000
+Searching for alt i (17)
+('Started_FID_j: ', 55515)
+Time function( route_solver ): 0:00:00.531000
+Time function( route_solver ): 0:00:00.595000
+Time function( route_solver ): 0:00:00.556000
+Time function( route_solver ): 0:00:00.542000
+Searching for alt j (18)
+('Started_FID_i: ', 54119)
+Time function( route_solver ): 0:00:00.542000
+Searching for alt i (16)
+('Started_FID_j: ', 55515)
+Time function( route_solver ): 0:00:00.645000
+Time function( route_solver ): 0:00:00.562000
+Searching for alt j (19)
+('Started_FID_i: ', 54119)
+Time function( route_solver ): 0:00:00.542000
+Time function( route_solver ): 0:00:00.591000
+Searching for alt i (16)
+('Started_FID_j: ', 76157)
+Time function( route_solver ): 0:00:00.576000
+Time function( route_solver ): 0:00:00.576000
+Searching for alt j (19)
+('Started_FID_i: ', 76267)
+Time function( route_solver ): 0:00:00.679000
+Time function( route_solver ): 0:00:00.590000
+Searching for alt i (15)
+('Started_FID_j: ', 76157)
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: nearList=[(6.143996386741561, 76158, -70.6715021560046, -33.42570675930522, 118.88557653180098), (6.143996386741561, 76161, -70.6715021560046, -33.42570675930522, 118.88557653180098), (6.143996386741561, 76162, -70.6715021560046, -33.42570675930522, 118.88557653180098)]
+Time function( near_segments ): 0:00:04.102000
+Searching for alt j (20)
+('Started_FID_i: ', 76267)
+Time function( route_solver ): 0:00:00.631000
+Time function( route_solver ): 0:00:00.667000
+Time function( route_solver ): 0:00:00.631000
+Searching for alt i (15)
+('Started_FID_j: ', 76158)
+didn't find matching i or j
+Time function( solverForIAndJ ): 0:00:14.128000
+Time function( mapMatch ): 0:00:14.128000
+------------------------
+PointsToCheck: 5
+Input i: 18 FID: 55515
+Input j: 19 FID: 76157
+Searching for alt j (19)
+('Started_FID_i: ', 55515)
+Time function( route_solver ): 0:00:00.597000
+Time function( route_solver ): 0:00:00.575000
+Searching for alt i (18)
+('Started_FID_j: ', 76157)
+Searching for alt j (19)
+('Started_FID_i: ', 54760)
+Time function( route_solver ): 0:00:00.558000
+Time function( route_solver ): 0:00:00.607000
+Searching for alt i (17)
+('Started_FID_j: ', 76157)
+Time function( route_solver ): 0:00:00.688000
+Time function( route_solver ): 0:00:00.574000
+Time function( route_solver ): 0:00:00.571000
+Time function( route_solver ): 0:00:00.594000
+Searching for alt j (20)
+('Started_FID_i: ', 54760)
+Time function( route_solver ): 0:00:00.569000
+Time function( route_solver ): 0:00:00.616000
+Time function( route_solver ): 0:00:00.564000
+Searching for alt i (17)
+('Started_FID_j: ', 76158)
+Time function( route_solver ): 0:00:00.539000
+Time function( route_solver ): 0:00:00.565000
+Time function( route_solver ): 0:00:00.575000
+Time function( route_solver ): 0:00:00.555000
+Searching for alt j (20)
+('Started_FID_i: ', 54119)
+Time function( route_solver ): 0:00:00.611000
+Time function( route_solver ): 0:00:00.567000
+Time function( route_solver ): 0:00:00.545000
+Searching for alt i (16)
+('Started_FID_j: ', 76158)
+Time function( route_solver ): 0:00:00.586000
+Time function( route_solver ): 0:00:00.558000
+Debug: False
+Debug: False
+Debug: False
+Debug: nearList=[(3.127378140168848, 76168, -70.67009252136545, -33.426186169253846, -158.13889696131287), (6.833598559775395, 76556, -70.67004942940609, -33.42610397289903, 24.58536481627433), (13.370832451128173, 76241, -70.670134533218, -33.426271544562745, -157.7092060986922)]
+Time function( near_segments ): 0:00:04.212000
+Searching for alt j (21)
+('Started_FID_i: ', 54119)
+Time function( route_solver ): 0:00:00.573000
+Time function( route_solver ): 0:00:00.612000
+Time function( route_solver ): 0:00:00.618000
+Searching for alt i (16)
+('Started_FID_j: ', 76168)
+Time function( route_solver ): 0:00:00.701000
+Time function( route_solver ): 0:00:00.607000
+didn't find matching i or j
+Time function( solverForIAndJ ): 0:00:18.937000
+Time function( mapMatch ): 0:00:18.937000
+------------------------
+PointsToCheck: 5
+Input i: 19 FID: 76157
+Input j: 20 FID: 76157
+Searching for alt j (20)
+('Started_FID_i: ', 76157)
+Time function( route_solver ): 0:00:00.574000
+solution found!
+i: 19  &   j: 20
+iFID: 76157  &   jFID: 76158
+0.272497
+Time function( solverForIAndJ ): 0:00:00.574000
+Time function( mapMatch ): 0:00:00.574000
+------------------------
+PointsToCheck: 5
+Input i: 20 FID: 76157
+Input j: 21 FID: 76168
+Searching for alt j (21)
+('Started_FID_i: ', 76158)
+Time function( route_solver ): 0:00:00.553000
+solution found!
+i: 20  &   j: 21
+iFID: 76158  &   jFID: 76168
+0.141512
+Time function( solverForIAndJ ): 0:00:00.553000
+Time function( mapMatch ): 0:00:00.553000
+------------------------
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: nearList=[(14.707660347380136, 76198, -70.663344236544, -33.42838858574072, 32.840115790388104)]
+Time function( near_segments ): 0:00:04.178000
+PointsToCheck: 5
+Input i: 21 FID: 76168
+Input j: 22 FID: 76140
+Searching for alt j (22)
+('Started_FID_i: ', 76168)
+Time function( route_solver ): 0:00:00.554000
+Searching for alt i (21)
+('Started_FID_j: ', 76198)
+Time function( route_solver ): 0:00:00.557000
+Time function( route_solver ): 0:00:00.547000
+Time function( route_solver ): 0:00:00.577000
+Time function( route_solver ): 0:00:00.600000
+Searching for alt j (22)
+('Started_FID_i: ', 76158)
+Time function( route_solver ): 0:00:00.558000
+Searching for alt i (20)
+('Started_FID_j: ', 76198)
+Time function( route_solver ): 0:00:00.554000
+Time function( route_solver ): 0:00:00.548000
+Time function( route_solver ): 0:00:00.547000
+Time function( route_solver ): 0:00:00.560000
+Debug: False
+Debug: False
+Debug: nearList=[(0.3889321231426964, 60010, -70.66060414480847, -33.43431046907096, -97.68724172945818)]
+Time function( near_segments ): 0:00:04.012000
+Searching for alt j (23)
+('Started_FID_i: ', 76158)
+Time function( route_solver ): 0:00:00.546000
+Searching for alt i (20)
+('Started_FID_j: ', 60010)
+Time function( route_solver ): 0:00:00.580000
+Time function( route_solver ): 0:00:00.598000
+Time function( route_solver ): 0:00:00.567000
+Time function( route_solver ): 0:00:00.562000
+Searching for alt j (23)
+('Started_FID_i: ', 76157)
+Time function( route_solver ): 0:00:00.561000
+Searching for alt i (19)
+('Started_FID_j: ', 60010)
+Time function( route_solver ): 0:00:00.605000
+Time function( route_solver ): 0:00:00.570000
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: nearList=[(2.6956067051090797, 62703, -70.66008852232024, -33.44046565500747, -79.70146068300652), (10.236476574462353, 62474, -70.66016853733892, -33.440454573158064, -80.37787600190096), (10.984490911401355, 62884, -70.65994407500762, -33.440489048010406, 101.08888692788521)]
+Time function( near_segments ): 0:00:04.238000
+Searching for alt j (24)
+('Started_FID_i: ', 76157)
+Time function( route_solver ): 0:00:00.594000
+Time function( route_solver ): 0:00:00.569000
+Time function( route_solver ): 0:00:00.588000
+Searching for alt i (19)
+('Started_FID_j: ', 62703)
+Time function( route_solver ): 0:00:00.589000
+Time function( route_solver ): 0:00:00.594000
+didn't find matching i or j
+Time function( solverForIAndJ ): 0:00:21.375000
+Time function( mapMatch ): 0:00:25.553000
+------------------------
+PointsToCheck: 5
+Input i: 22 FID: 76140
+Input j: 23 FID: 60010
+Searching for alt i (22)
+('Started_FID_j: ', 60010)
+Time function( route_solver ): 0:00:00.579000
+Time function( route_solver ): 0:00:00.582000
+Searching for alt j (23)
+('Started_FID_i: ', 76168)
+Time function( route_solver ): 0:00:00.518000
+Searching for alt i (21)
+('Started_FID_j: ', 60010)
+Time function( route_solver ): 0:00:00.560000
+Time function( route_solver ): 0:00:00.561000
+Time function( route_solver ): 0:00:00.646000
+Time function( route_solver ): 0:00:00.573000
+Searching for alt j (24)
+('Started_FID_i: ', 76168)
+Time function( route_solver ): 0:00:00.589000
+Time function( route_solver ): 0:00:00.599000
+Time function( route_solver ): 0:00:00.599000
+Searching for alt i (21)
+('Started_FID_j: ', 62703)
+Time function( route_solver ): 0:00:00.574000
+Time function( route_solver ): 0:00:00.588000
+Time function( route_solver ): 0:00:00.608000
+Time function( route_solver ): 0:00:00.640000
+Searching for alt j (24)
+('Started_FID_i: ', 76158)
+Time function( route_solver ): 0:00:00.566000
+Time function( route_solver ): 0:00:00.590000
+Time function( route_solver ): 0:00:00.577000
+Searching for alt i (20)
+('Started_FID_j: ', 62703)
+Time function( route_solver ): 0:00:00.523000
+Time function( route_solver ): 0:00:00.600000
+Time function( route_solver ): 0:00:00.530000
+Time function( route_solver ): 0:00:00.589000
+Debug: False
+Debug: nearList=[(0.36594535202137946, 62910, -70.66034611450904, -33.44140052445125, 99.14613239604768)]
+Time function( near_segments ): 0:00:04.288000
+Searching for alt j (25)
+('Started_FID_i: ', 76158)
+Time function( route_solver ): 0:00:00.577000
+Searching for alt i (20)
+('Started_FID_j: ', 62910)
+Time function( route_solver ): 0:00:00.558000
+Time function( route_solver ): 0:00:00.589000
+Time function( route_solver ): 0:00:00.547000
+Time function( route_solver ): 0:00:00.586000
+didn't find matching i or j
+Time function( solverForIAndJ ): 0:00:19.337000
+Time function( mapMatch ): 0:00:19.337000
+------------------------
+PointsToCheck: 5
+Input i: 23 FID: 60010
+Input j: 24 FID: 62703
+Searching for alt i (23)
+('Started_FID_j: ', 62703)
+Time function( route_solver ): 0:00:00.555000
+Time function( route_solver ): 0:00:00.561000
+solution found!
+i: 23  &   j: 24
+iFID: 60010  &   jFID: 62703
+Time function( solverForIAndJ ): 0:00:01.116000
+Time function( mapMatch ): 0:00:01.116000
+------------------------
+PointsToCheck: 5
+Input i: 24 FID: 62703
+Input j: 25 FID: 62910
+Searching for alt j (25)
+('Started_FID_i: ', 62703)
+Time function( route_solver ): 0:00:00.594000
+Searching for alt i (24)
+('Started_FID_j: ', 62910)
+Time function( route_solver ): 0:00:00.583000
+Time function( route_solver ): 0:00:00.573000
+Time function( route_solver ): 0:00:00.614000
+Time function( route_solver ): 0:00:00.573000
+Searching for alt j (25)
+('Started_FID_i: ', 60010)
+Time function( route_solver ): 0:00:00.592000
+solution found!
+i: 23  &   j: 25
+iFID: 60010  &   jFID: 62910
+0.798902
+Time function( solverForIAndJ ): 0:00:03.529000
+Routing...
+23-->25 - Assign List:[60010, 60222, 61076, 61241, 61767, 61915, 62099, 62198, 62703, 62910]
+Forcing points between 23 and 25
+24
+(2.8796172176255593e-05, 62703, -70.66008814277072, -33.44046390049279)
+('assign: ', ((-70.66008814277072, -33.44046390049279), 62703))
+Time function( mapMatch ): 0:00:04.811000
+------------------------
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: nearList=[(4.315296385131964, 63015, -70.66000724072059, -33.441718838439016, 176.59140281701374)]
+Time function( near_segments ): 0:00:04.436000
+PointsToCheck: 5
+Input i: 25 FID: 62910
+Input j: 26 FID: 62909
+Searching for alt j (26)
+('Started_FID_i: ', 62910)
+Time function( route_solver ): 0:00:00.544000
+solution found!
+i: 25  &   j: 26
+iFID: 62910  &   jFID: 63015
+0.074613
+Time function( solverForIAndJ ): 0:00:00.544000
+Time function( mapMatch ): 0:00:04.980000
+------------------------
+Debug: False
+Debug: False
+Debug: False
+Debug: nearList=[(4.259039294306936, 62885, -70.6585949826713, -33.44152816897149, 173.71118737159566)]
+Time function( near_segments ): 0:00:04.054000
+PointsToCheck: 5
+Input i: 26 FID: 62909
+Input j: 27 FID: 62885
+Searching for alt j (27)
+('Started_FID_i: ', 63015)
+Time function( route_solver ): 0:00:00.557000
+solution found!
+i: 26  &   j: 27
+iFID: 63015  &   jFID: 62885
+0.142958
+Time function( solverForIAndJ ): 0:00:00.558000
+Time function( mapMatch ): 0:00:04.612000
+------------------------
+Debug: False
+Debug: False
+Debug: False
+Debug: nearList=[(4.732374573770754, 62854, -70.65842442500562, -33.44151241093725, 173.71112206509235)]
+Time function( near_segments ): 0:00:04.625000
+PointsToCheck: 5
+Input i: 27 FID: 62885
+Input j: 28 FID: 62854
+Searching for alt j (28)
+('Started_FID_i: ', 62885)
+Time function( route_solver ): 0:00:00.606000
+Searching for alt i (27)
+('Started_FID_j: ', 62854)
+Searching for alt j (28)
+('Started_FID_i: ', 63015)
+Time function( route_solver ): 0:00:00.538000
+Searching for alt i (26)
+('Started_FID_j: ', 62854)
+Debug: False
+Debug: nearList=[(3.7008038306784634, 63255, -70.65771964204897, -33.44224297299659, -95.11185045353835)]
+Time function( near_segments ): 0:00:04.058000
+Searching for alt j (29)
+('Started_FID_i: ', 63015)
+Time function( route_solver ): 0:00:00.730000
+Searching for alt i (26)
+('Started_FID_j: ', 63255)
+Searching for alt j (29)
+('Started_FID_i: ', 62910)
+Time function( route_solver ): 0:00:00.551000
+solution found!
+i: 25  &   j: 29
+iFID: 62910  &   jFID: 63255
+0.353217
+Time function( solverForIAndJ ): 0:00:06.483000
+Routing...
+25-->29 - Assign List:[62854, 62885, 62909, 62910, 63062, 63255]
+Forcing points between 25 and 29
+26
+(3.892763193649728e-05, 63015, -70.66000805861842, -33.4417188791919)
+('assign: ', ((-70.66000805861842, -33.4417188791919), 63015))
+Forcing points between 25 and 29
+27
+(3.8468432589220804e-05, 62885, -70.65859646100947, -33.441528305297894)
+('assign: ', ((-70.65859646100947, -33.441528305297894), 62885))
+Forcing points between 25 and 29
+28
+(4.2743856706537106e-05, 62854, -70.65842606747765, -33.44151256257221)
+('assign: ', ((-70.65842606747765, -33.44151256257221), 62854))
+Time function( mapMatch ): 0:00:14.264000
+------------------------
+PointsToCheck: 5
+Input i: 28 FID: 62854
+Input j: 29 FID: 63255
+Searching for alt j (29)
+('Started_FID_i: ', 62854)
+Time function( route_solver ): 0:00:00.555000
+Searching for alt i (28)
+('Started_FID_j: ', 63255)
+Searching for alt j (29)
+('Started_FID_i: ', 62885)
+Time function( route_solver ): 0:00:00.658000
+solution found!
+i: 27  &   j: 29
+iFID: 62885  &   jFID: 63255
+0.159803
+Time function( solverForIAndJ ): 0:00:01.213000
+Routing...
+27-->29 - Assign List:[62854, 62885, 63062, 63255]
+Forcing points between 27 and 29
+28
+(4.2743856706537106e-05, 62854, -70.65842606747765, -33.44151256257221)
+('assign: ', ((-70.65842606747765, -33.44151256257221), 62854))
+Time function( mapMatch ): 0:00:02.528000
+------------------------
+Debug: False
+Debug: False
+Debug: False
+Debug: nearList=[(3.602966243139992, 64060, -70.65754852968801, -33.443643449525496, -96.09568002168618)]
+Time function( near_segments ): 0:00:05.283000
+PointsToCheck: 5
+Input i: 29 FID: 63255
+Input j: 30 FID: 64060
+Searching for alt j (30)
+('Started_FID_i: ', 63255)
+Time function( route_solver ): 0:00:00.572000
+solution found!
+i: 29  &   j: 30
+iFID: 63255  &   jFID: 64060
+0.156131
+Time function( solverForIAndJ ): 0:00:00.572000
+Time function( mapMatch ): 0:00:05.855000
+------------------------
+Debug: False
+Debug: nearList=[(6.082336360203179, 64060, -70.65744504437174, -33.44445582336606, -96.09575137233016)]
+Time function( near_segments ): 0:00:04.142000
+PointsToCheck: 5
+Input i: 30 FID: 64060
+Input j: 31 FID: 64060
+Searching for alt j (31)
+('Started_FID_i: ', 64060)
+Time function( route_solver ): 0:00:00.571000
+Searching for alt i (30)
+('Started_FID_j: ', 64060)
+Searching for alt j (31)
+('Started_FID_i: ', 63255)
+Time function( route_solver ): 0:00:00.549000
+solution found!
+i: 29  &   j: 31
+iFID: 63255  &   jFID: 64060
+0.246735
+Time function( solverForIAndJ ): 0:00:01.120000
+Routing...
+29-->31 - Assign List:[63255, 63577, 64060]
+Forcing points between 29 and 31
+30
+(3.865645703247635e-05, 64060, -70.65754834657537, -33.443644884856525)
+('assign: ', ((-70.65754834657537, -33.443644884856525), 64060))
+Time function( mapMatch ): 0:00:06.470000
+------------------------
+Debug: False
+Debug: nearList=[(4.093839568477959, 64300, -70.65965791189085, -33.44570549220604, 164.06487498387074)]
+Time function( near_segments ): 0:00:04.035000
+PointsToCheck: 5
+Input i: 31 FID: 64060
+Input j: 32 FID: 64300
+Searching for alt j (32)
+('Started_FID_i: ', 64060)
+Time function( route_solver ): 0:00:00.535000
+solution found!
+i: 31  &   j: 32
+iFID: 64060  &   jFID: 64300
+0.300872
+Time function( solverForIAndJ ): 0:00:00.536000
+Time function( mapMatch ): 0:00:04.571000
+------------------------
+Debug: False
+Debug: False
+Debug: nearList=[(4.1764945238244175, 77669, -70.66015632365905, -33.443638788791326, 103.49722506659509), (12.824103693582062, 77668, -70.66033691288499, -33.44361605811333, -83.07447236733796)]
+Time function( near_segments ): 0:00:04.043000
+PointsToCheck: 5
+Input i: 32 FID: 64300
+Input j: 33 FID: 77669
+Searching for alt j (33)
+('Started_FID_i: ', 64300)
+Time function( route_solver ): 0:00:00.534000
+Time function( route_solver ): 0:00:00.642000
+solution found!
+i: 32  &   j: 33
+iFID: 64300  &   jFID: 77668
+0.305584
+Time function( solverForIAndJ ): 0:00:01.176000
+Time function( mapMatch ): 0:00:05.220000
+------------------------
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: nearList=[(12.914877931427684, 62962, -70.6598868067959, -33.44160989748782, -80.05872313060868)]
+Time function( near_segments ): 0:00:04.080000
+PointsToCheck: 5
+Input i: 33 FID: 77669
+Input j: 34 FID: 63014
+Searching for alt j (34)
+('Started_FID_i: ', 77668)
+Time function( route_solver ): 0:00:00.556000
+Searching for alt i (33)
+('Started_FID_j: ', 62962)
+Time function( route_solver ): 0:00:00.567000
+Time function( route_solver ): 0:00:00.574000
+Searching for alt j (34)
+('Started_FID_i: ', 64300)
+Time function( route_solver ): 0:00:00.542000
+solution found!
+i: 32  &   j: 34
+iFID: 64300  &   jFID: 62962
+0.532006
+Time function( solverForIAndJ ): 0:00:02.239000
+Routing...
+32-->34 - Assign List:[62962, 63584, 64300, 64352, 64562, 77666, 77667, 77668]
+Forcing points between 32 and 34
+33
+(4.440712130854291e-05, 77669, -70.6601573082124, -33.44364222308049)
+('assign: ', ((-70.6601573082124, -33.44364222308049), 77669))
+Time function( mapMatch ): 0:00:07.504000
+------------------------
+Debug: False
+Debug: False
+Debug: nearList=[(9.923459010550607, 62441, -70.65932391139125, -33.43986028897333, 83.76898470368222)]
+Time function( near_segments ): 0:00:04.135000
+PointsToCheck: 5
+Input i: 34 FID: 63014
+Input j: 35 FID: 62441
+Searching for alt j (35)
+('Started_FID_i: ', 62962)
+Time function( route_solver ): 0:00:00.541000
+solution found!
+i: 34  &   j: 35
+iFID: 62962  &   jFID: 62441
+0.26563
+Time function( solverForIAndJ ): 0:00:00.541000
+Time function( mapMatch ): 0:00:04.676000
+------------------------
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: nearList=[(9.407619802412848, 62441, -70.65936942646651, -33.439510793803926, 83.76900662883106)]
+Time function( near_segments ): 0:00:04.030000
+PointsToCheck: 5
+Input i: 35 FID: 62441
+Input j: 36 FID: 62441
+Searching for alt j (36)
+('Started_FID_i: ', 62441)
+Time function( route_solver ): 0:00:00.543000
+solution found!
+i: 35  &   j: 36
+iFID: 62441  &   jFID: 62441
+0.038989
+Time function( solverForIAndJ ): 0:00:00.543000
+Time function( mapMatch ): 0:00:04.575000
+------------------------
+Debug: False
+Debug: False
+Debug: False
+Debug: nearList=[(11.483302340387862, 61974, -70.65945716489828, -33.43882933104931, 84.08538682227868)]
+Time function( near_segments ): 0:00:03.997000
+PointsToCheck: 5
+Input i: 36 FID: 62441
+Input j: 37 FID: 61974
+Searching for alt j (37)
+('Started_FID_i: ', 62441)
+Time function( route_solver ): 0:00:00.586000
+Searching for alt i (36)
+('Started_FID_j: ', 61974)
+Searching for alt j (37)
+('Started_FID_i: ', 62441)
+Time function( route_solver ): 0:00:00.524000
+Searching for alt i (35)
+('Started_FID_j: ', 61974)
+Debug: False
+Debug: nearList=[(0.37257793648460996, 76190, -70.66012398782367, -33.43539032466031, -95.54616355730516)]
+Time function( near_segments ): 0:00:03.985000
+Searching for alt j (38)
+('Started_FID_i: ', 62441)
+Time function( route_solver ): 0:00:00.538000
+Searching for alt i (35)
+('Started_FID_j: ', 76190)
+Searching for alt j (38)
+('Started_FID_i: ', 62962)
+Time function( route_solver ): 0:00:00.577000
+Searching for alt i (34)
+('Started_FID_j: ', 76190)
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: nearList=[(7.9934726813714105, 76197, -70.66150082812, -33.43062193959056, 67.08610445437908), (8.7052042084991, 76143, -70.66166535005907, -33.430682232512105, -114.24703197321992)]
+Time function( near_segments ): 0:00:03.969000
+Searching for alt j (39)
+('Started_FID_i: ', 62962)
+Time function( route_solver ): 0:00:00.558000
+Time function( route_solver ): 0:00:00.589000
+Searching for alt i (34)
+('Started_FID_j: ', 76197)
+didn't find matching i or j
+Time function( solverForIAndJ ): 0:00:11.327000
+Time function( mapMatch ): 0:00:15.324000
+------------------------
+PointsToCheck: 5
+Input i: 37 FID: 61974
+Input j: 38 FID: 76190
+Searching for alt i (37)
+('Started_FID_j: ', 76190)
+Time function( route_solver ): 0:00:00.546000
+Time function( route_solver ): 0:00:00.540000
+Searching for alt j (38)
+('Started_FID_i: ', 62441)
+Time function( route_solver ): 0:00:00.530000
+solution found!
+i: 36  &   j: 38
+iFID: 62441  &   jFID: 76190
+0.48021
+Time function( solverForIAndJ ): 0:00:01.616000
+Routing...
+36-->38 - Assign List:[60932, 61118, 61373, 61566, 61974, 62441, 76187, 76189, 76190]
+Forcing points between 36 and 38
+37
+(3.849988620025161e-05, 61789, -70.65961439428372, -33.438857299551444)
+('assign: ', ((-70.65961439428372, -33.438857299551444), 61789))
+Time function( mapMatch ): 0:00:02.809000
+------------------------
+PointsToCheck: 5
+Input i: 38 FID: 76190
+Input j: 39 FID: 76197
+Searching for alt j (39)
+('Started_FID_i: ', 76190)
+Time function( route_solver ): 0:00:00.559000
+solution found!
+i: 38  &   j: 39
+iFID: 76190  &   jFID: 76197
+0.549221
+Time function( solverForIAndJ ): 0:00:00.559000
+Time function( mapMatch ): 0:00:00.559000
+------------------------
+Debug: False
+Debug: False
+Debug: False
+Debug: nearList=[(2.9465020787569327, 76240, -70.66661289392954, -33.42733411072279, 12.961018709529545)]
+Time function( near_segments ): 0:00:03.972000
+PointsToCheck: 5
+Input i: 39 FID: 76197
+Input j: 40 FID: 76240
+Searching for alt j (40)
+('Started_FID_i: ', 76197)
+Time function( route_solver ): 0:00:00.584000
+Searching for alt i (39)
+('Started_FID_j: ', 76240)
+Time function( route_solver ): 0:00:00.579000
+Time function( route_solver ): 0:00:00.561000
+Searching for alt j (40)
+('Started_FID_i: ', 76190)
+Time function( route_solver ): 0:00:00.538000
+Searching for alt i (38)
+('Started_FID_j: ', 76240)
+Debug: False
+Debug: False
+Debug: nearList=[(7.744734445340522, 76241, -70.67327561742384, -33.425376401972116, 24.38595480600754), (11.123462409015103, 76138, -70.67335670017792, -33.42553232994289, -157.01718726424662)]
+Time function( near_segments ): 0:00:04.168000
+Searching for alt j (41)
+('Started_FID_i: ', 76190)
+Time function( route_solver ): 0:00:00.554000
+solution found!
+i: 38  &   j: 41
+iFID: 76190  &   jFID: 76241
+1.846523
+Time function( solverForIAndJ ): 0:00:06.984000
+Routing...
+38-->41 - Assign List:[60003, 60221, 76153, 76190, 76196, 76197, 76198, 76240, 76241]
+Forcing points between 38 and 41
+39
+(2.949816414174169e-05, 58648, -70.66157428616138, -33.43062106051592)
+('assign: ', ((-70.66157428616138, -33.43062106051592), 58648))
+Forcing points between 38 and 41
+40
+(2.6766769925149447e-05, 76240, -70.66661492807518, -33.427333718151644)
+('assign: ', ((-70.66661492807518, -33.427333718151644), 76240))
+Time function( mapMatch ): 0:00:13.291000
+------------------------
+PointsToCheck: 5
+Input i: 40 FID: 76240
+Input j: 41 FID: 76241
+Searching for alt j (41)
+('Started_FID_i: ', 76240)
+Time function( route_solver ): 0:00:00.643000
+solution found!
+i: 40  &   j: 41
+iFID: 76240  &   jFID: 76241
+0.660543
+Time function( solverForIAndJ ): 0:00:00.643000
+Time function( mapMatch ): 0:00:00.643000
+------------------------
+Debug: False
+Debug: False
+Debug: nearList=[(8.601628672186127, 76241, -70.68128057683586, -33.421969845144815, 25.23083944836447), (8.637673128874205, 76138, -70.68136112351215, -33.42210982774056, -153.71763790102455)]
+Time function( near_segments ): 0:00:04.883000
+PointsToCheck: 5
+Input i: 41 FID: 76241
+Input j: 42 FID: 76241
+Searching for alt j (42)
+('Started_FID_i: ', 76241)
+Time function( route_solver ): 0:00:00.948000
+solution found!
+i: 41  &   j: 42
+iFID: 76241  &   jFID: 76241
+0.836206
+Time function( solverForIAndJ ): 0:00:00.948000
+Time function( mapMatch ): 0:00:05.831000
+------------------------
+Debug: False
+Debug: False
+Debug: nearList=[(8.585113845658393, 76138, -70.68905209940836, -33.41865389593364, -145.636981981307)]
+Time function( near_segments ): 0:00:04.286000
+PointsToCheck: 5
+Input i: 42 FID: 76241
+Input j: 43 FID: 76241
+Searching for alt j (43)
+('Started_FID_i: ', 76241)
+Time function( route_solver ): 0:00:00.572000
+Searching for alt i (42)
+('Started_FID_j: ', 76138)
+Time function( route_solver ): 0:00:00.579000
+Time function( route_solver ): 0:00:00.712000
+Searching for alt j (43)
+('Started_FID_i: ', 76241)
+Time function( route_solver ): 0:00:00.573000
+Searching for alt i (41)
+('Started_FID_j: ', 76138)
+Time function( route_solver ): 0:00:00.571000
+Time function( route_solver ): 0:00:00.651000
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: False
+Debug: nearList=[(1.964500319733918, 76490, -70.69452753861141, -33.4132956993307, 36.15851834442499), (14.059328769524193, 76044, -70.69445245124756, -33.41320666726849, 35.395288962252884)]
+Time function( near_segments ): 0:00:04.729000
+Searching for alt j (44)
+('Started_FID_i: ', 76241)
+Time function( route_solver ): 0:00:00.676000
+solution found!
+i: 41  &   j: 44
+iFID: 76241  &   jFID: 76490
+2.429824
+Time function( solverForIAndJ ): 0:00:09.064000
+Routing...
+41-->44 - Assign List:[76154, 76241, 76490]
+Forcing points between 41 and 44
+42
+(7.973399322783073e-05, 76241, -70.68129069804684, -33.42196584539649)
+('assign: ', ((-70.68129069804684, -33.42196584539649), 76241))
+Forcing points between 41 and 44
+43
+(8.134489624998083e-05, 76138, -70.6890404628544, -33.418660567340524)
+('assign: ', ((-70.6890404628544, -33.418660567340524), 76138))
+Time function( mapMatch ): 0:00:15.708000
+------------------------
+PointsToCheck: 5
+Input i: 43 FID: 76241
+Input j: 44 FID: 76490
+Searching for alt j (44)
+('Started_FID_i: ', 76138)
+Time function( route_solver ): 0:00:00.610000
+Time function( route_solver ): 0:00:00.624000
+Searching for alt i (43)
+('Started_FID_j: ', 76490)
+Searching for alt j (44)
+('Started_FID_i: ', 76241)
+Time function( route_solver ): 0:00:00.570000
+solution found!
+i: 42  &   j: 44
+iFID: 76241  &   jFID: 76490
+1.592578
+Time function( solverForIAndJ ): 0:00:01.805000
+Routing...
+42-->44 - Assign List:[76154, 76241, 76490]
+Forcing points between 42 and 44
+43
+(8.134489624998083e-05, 76138, -70.6890404628544, -33.418660567340524)
+('assign: ', ((-70.6890404628544, -33.418660567340524), 76138))
+Time function( mapMatch ): 0:00:03.047000
+------------------------
+Debug: False
+Debug: False
+Debug: nearList=[(8.329085672415705, 76490, -70.70114653411697, -33.40893976062791, 36.66320485214213), (11.571851789046823, 76137, -70.70127395298131, -33.40908389698756, -143.5254156361048)]
+Time function( near_segments ): 0:00:04
+PointsToCheck: 5
+Input i: 44 FID: 76490
+Input j: 45 FID: 76490
+Searching for alt j (45)
+('Started_FID_i: ', 76490)
+Time function( route_solver ): 0:00:00.535000
+solution found!
+i: 44  &   j: 45
+iFID: 76490  &   jFID: 76490
+0.783057
+Time function( solverForIAndJ ): 0:00:00.535000
+Time function( mapMatch ): 0:00:04.535000
+------------------------
+Debug: False
+Debug: False
+Debug: False
+Debug: nearList=[(4.728420843776687, 76492, -70.70891130963517, -33.40724738186217, -1.4763467153830543), (12.994319556807838, 76001, -70.70890705480713, -33.40740713306986, 178.79191456134453), (14.912574602643469, 76020, -70.70891042991593, -33.40715554603735, -0.15365193310565287)]
+Time function( near_segments ): 0:00:03.992000
+PointsToCheck: 5
+Input i: 45 FID: 76490
+Input j: 46 FID: 76492
+Searching for alt j (46)
+('Started_FID_i: ', 76490)
+Time function( route_solver ): 0:00:00.537000
+Time function( route_solver ): 0:00:00.562000
+Time function( route_solver ): 0:00:00.548000
+solution found!
+i: 45  &   j: 46
+iFID: 76490  &   jFID: 76020
+0.87219
+Time function( solverForIAndJ ): 0:00:01.648000
+Time function( mapMatch ): 0:00:05.640000
+------------------------
+Debug: False
+Debug: False
+Debug: nearList=[(5.210713618957266, 76492, -70.71707650929952, -33.409303337548764, -6.6729078839416935)]
+Time function( near_segments ): 0:00:03.983000
+PointsToCheck: 5
+Input i: 46 FID: 76492
+Input j: 47 FID: 76492
+Searching for alt j (47)
+('Started_FID_i: ', 76020)
+Time function( route_solver ): 0:00:00.542000
+Searching for alt i (46)
+('Started_FID_j: ', 76492)
+Time function( route_solver ): 0:00:00.532000
+Time function( route_solver ): 0:00:00.550000
+Time function( route_solver ): 0:00:00.554000
+Time function( route_solver ): 0:00:00.562000
+Searching for alt j (47)
+('Started_FID_i: ', 76490)
+Time function( route_solver ): 0:00:00.552000
+solution found!
+i: 45  &   j: 47
+iFID: 76490  &   jFID: 76492
+1.590768
+Time function( solverForIAndJ ): 0:00:03.292000
+Routing...
+45-->47 - Assign List:[76490, 76491, 76492]
+Forcing points between 45 and 47
+46
+(4.263950351133025e-05, 76492, -70.70891092114402, -33.40724737044735)
+('assign: ', ((-70.70891092114402, -33.40724737044735), 76492))
+Time function( mapMatch ): 0:00:08.448000
+------------------------
+Debug: False
+Debug: False
+Debug: nearList=[(4.758263857845198, 76493, -70.72514498260179, -33.41187256274218, -29.233546469737046), (14.301572858363858, 75999, -70.72504518132352, -33.41202264881795, 150.88163309412062)]
+Time function( near_segments ): 0:00:03.972000
+PointsToCheck: 5
+Input i: 47 FID: 76492
+Input j: 48 FID: 76493
+Searching for alt j (48)
+('Started_FID_i: ', 76492)
+Time function( route_solver ): 0:00:00.525000
+solution found!
+i: 47  &   j: 48
+iFID: 76492  &   jFID: 76493
+0.816815
+Time function( solverForIAndJ ): 0:00:00.525000
+Time function( mapMatch ): 0:00:04.497000
+------------------------
+Debug: False
+Debug: False
+Debug: nearList=[(7.630582031268786, 76496, -70.73294897077643, -33.4115218259848, 7.726613874870054), (8.780622350069487, 75999, -70.73297462388938, -33.41166821185635, -171.08801823747643)]
+Time function( near_segments ): 0:00:03.976000
+PointsToCheck: 5
+Input i: 48 FID: 76493
+Input j: 49 FID: 76496
+Searching for alt j (49)
+('Started_FID_i: ', 76493)
+Time function( route_solver ): 0:00:00.523000
+solution found!
+i: 48  &   j: 49
+iFID: 76493  &   jFID: 76496
+0.752575
+Time function( solverForIAndJ ): 0:00:00.523000
+Time function( mapMatch ): 0:00:04.499000
+------------------------
+Debug: False
+Debug: False
+Debug: nearList=[(7.186412505583561, 76496, -70.7411973604999, -33.41167524388782, 1.9578440335055092), (14.374487814439922, 75999, -70.74120331621162, -33.41186957301928, -178.7703931405183)]
+Time function( near_segments ): 0:00:03.990000
+PointsToCheck: 5
+Input i: 49 FID: 76496
+Input j: 50 FID: 76496
+Searching for alt j (50)
+('Started_FID_i: ', 76496)
+Time function( route_solver ): 0:00:00.530000
+solution found!
+i: 49  &   j: 50
+iFID: 76496  &   jFID: 76496
+0.768855
+Time function( solverForIAndJ ): 0:00:00.531000
+Time function( mapMatch ): 0:00:04.521000
+------------------------
+Debug: False
+Debug: False
+Debug: nearList=[(5.4320844852524655, 75985, -70.74936173200334, -33.41152104493143, -1.699537360452329), (11.452789184825805, 75968, -70.749359220888, -33.41167325825982, 179.6374436139929)]
+Time function( near_segments ): 0:00:03.985000
+PointsToCheck: 5
+Input i: 50 FID: 76496
+Input j: 51 FID: 75985
+Searching for alt j (51)
+('Started_FID_i: ', 76496)
+Time function( route_solver ): 0:00:00.543000
+solution found!
+i: 50  &   j: 51
+iFID: 76496  &   jFID: 75985
+0.759714
+Time function( solverForIAndJ ): 0:00:00.543000
+Time function( mapMatch ): 0:00:04.528000
+------------------------
+Debug: False
+Debug: False
+Debug: nearList=[(2.6414257448928278, 75985, -70.75776725749233, -33.411936295773316, 5.5420393051117145), (10.772728093627043, 75968, -70.75777782719162, -33.41205690670024, -176.12480487654136)]
+Time function( near_segments ): 0:00:03.974000
+PointsToCheck: 5
+Input i: 51 FID: 75985
+Input j: 52 FID: 75985
+Searching for alt j (52)
+('Started_FID_i: ', 75985)
+Time function( route_solver ): 0:00:00.522000
+solution found!
+i: 51  &   j: 52
+iFID: 75985  &   jFID: 75985
+0.78608
+Time function( solverForIAndJ ): 0:00:00.522000
+Time function( mapMatch ): 0:00:04.496000
+------------------------
+Debug: False
+Debug: False
+Debug: nearList=[(8.714050535487647, 75968, -70.76622628188785, -33.41309839054001, -176.15520622408937), (9.117080014679434, 75985, -70.76621481816134, -33.412937913800796, 3.030458798440375)]
+Time function( near_segments ): 0:00:03.998000
+PointsToCheck: 5
+Input i: 52 FID: 75985
+Input j: 53 FID: 75985
+Searching for alt j (53)
+('Started_FID_i: ', 75985)
+Time function( route_solver ): 0:00:00.543000
+Time function( route_solver ): 0:00:00.544000
+solution found!
+i: 52  &   j: 53
+iFID: 75985  &   jFID: 75985
+0.799907
+Time function( solverForIAndJ ): 0:00:01.087000
+Time function( mapMatch ): 0:00:05.085000
+------------------------
+Debug: False
+Debug: nearList=[(2.1762743891080345, 75985, -70.77374817714576, -33.41489693232101, 149.64836342620532)]
+Time function( near_segments ): 0:00:04.121000
+PointsToCheck: 5
+Input i: 53 FID: 75985
+Input j: 54 FID: 75985
+Searching for alt j (54)
+('Started_FID_i: ', 75985)
+Time function( route_solver ): 0:00:00.549000
+solution found!
+i: 53  &   j: 54
+iFID: 75985  &   jFID: 75985
+0.777262
+Time function( solverForIAndJ ): 0:00:00.549000
+Time function( mapMatch ): 0:00:04.670000
+------------------------
+Debug: True
+Debug: index = 1 - 55
+Debug: True
+Debug: index = 1 - 55
+Debug: True
+Debug: index = 1 - 55
+Debug: True
+Debug: index = 1 - 55
+Debug: True
+Debug: index = 1 - 55
+Debug: True
+Debug: index = 1 - 55
+Debug: True
+Debug: index = 1 - 55
+Debug: True
+Debug: index = 1 - 55
+Debug: nearList=[(3.8798277998175896, 55538, -70.78209830780874, -33.41582889445616, 88.18893611217463), (8.548015196548244, 76468, -70.78223186816372, -33.41582791151425, -88.44720897632457), (11.46854527410536, 75958, -70.78214640647927, -33.41572673735087, -2.9783145917360145), (12.184217796015524, 75959, -70.7821022321614, -33.41572480994296, 16.757044514152057), (12.47381478899815, 75961, -70.78219908050298, -33.41572903559624, -26.138390648666785), (14.11644115069522, 75957, -70.78213108621215, -33.4159570564773, 176.63294819515903), (14.5433389349771, 75960, -70.78209354503153, -33.41595520422805, 162.71626892671648), (15.046073518700592, 75962, -70.78218696895006, -33.41595981366196, -163.12085162988942)]
+Time function( near_segments ): 0:00:03.996000
+PointsToCheck: 5
+Input i: 54 FID: 75985
+Input j: 55 FID: 75959
+Searching for alt j (55)
+('Started_FID_i: ', 75985)
+Time function( route_solver ): 0:00:00.544000
+Time function( route_solver ): 0:00:00.571000
+Time function( route_solver ): 0:00:00.540000
+solution found!
+i: 54  &   j: 55
+iFID: 75985  &   jFID: 75958
+0.797005
+Time function( solverForIAndJ ): 0:00:01.655000
+Time function( mapMatch ): 0:00:05.651000
+============================ Results ====================================
+Time function( acceptSnapPoints ): 0:00:00.550000
+Time function( clean ): 0:00:02.205000
+('Points with not solution: ', [(14, 76065, 76552), (20, 76158, 76157), (22, 0, 76140), (26, 63015, 62909), (34, 62962, 63014), (37, 61789, 61974), (39, 58648, 76197), (43, 76138, 76241), (55, 75958, 75959)])
+count_getMidPoint = 1
+count_str2datetime = 0
+count_gpsDataDict = 1
+count_route_solver = 256
+count_near_segments = 55
+count_acceptSnapPoints = 1
+count_clean = 1
+count_solverForIAndJ = 54
+count_mapMatch = 54
+count_compareFID = 1
+Time function( countAnalysis ): 0:00:00
+Time function( compareFID ): 0:00:00.089000
+Time of execution(computacional): 7.103
+
+Time of execution(fin-inicio): 0:07:10.340000
+=========================================================================

@@ -1,0 +1,332 @@
+('Serie: ', [1])
+T916_20150208_2602_2619
+Debug: 18 - gpsDict={'near_fid': 76571, 'dSpeed': 0.0, 'dir': 29, 'gpsPoint': (-70.70273, -33.40348), 'time': datetime.datetime(1, 1, 1, 21, 36, 11)}
+gps dictionary done...
+midPoint : (-70.7008383333,-33.4039655556)
+n: 18
+-----------
+Debug: [1]: dir = 23 - angleRoad = [5;185]
+Debug: [1]: dir = 23 - angleRoad = [63;243]
+Debug: [1]: dir = 23 - angleRoad = [63;243]
+Debug: [1]: dir = 23 - angleRoad = [90;270]
+Debug: [1]: dir = 23 - angleRoad = [6;186]
+Debug: [1]: dir = 23 - angleRoad = [95;275]
+Debug: [1]: dir = 23 - angleRoad = [95;275]
+Debug: [1]: dir = 23 - angleRoad = [82;262]
+
+Debug: nearList=[(6.887370665580689, 49989, -70.69840379921995, -33.40279502881594, -85.40834537792828), (12.836454603659321, 49834, -70.69839447741538, -33.40269767625904, -27.85728147818381), (12.836454603659321, 49835, -70.69839447741538, -33.40269767625904, -27.85728147818381), (31.209232464385824, 49732, -70.69832452458203, -33.402518649236555, 0.9351538587147534), (31.244384782446456, 50065, -70.69799627300732, -33.40283174496105, 96.47041663825914), (31.327415720609892, 49731, -70.69829530456494, -33.40251904927729, 5.913555775284223), (31.327415720609892, 49740, -70.69829530456494, -33.40251904927729, 5.913555775284223), (31.59263983190657, 49730, -70.69837726598784, -33.40251792715564, -8.000268746342774)]
+Accepted: 1(49989)
+
+============================ Parameters ====================================
+Sample frencuency: 10
+
+Points Snapped: 18
+
+Speed tolerance range: 15
+
+Search Radius: 32 Meters
+
+============================================================================
+------------------------
+Debug: [2]: dir = 277 - angleRoad = [92;272]
+Debug: [2]: dir = 277 - angleRoad = [139;319]
+Debug: [2]: dir = 277 - angleRoad = [139;319]
+Debug: [2]: dir = 277 - angleRoad = [96;276]
+Debug: [2]: dir = 277 - angleRoad = [82;262]
+Debug: [2]: dir = 277 - angleRoad = [82;262]
+Debug: [2]: dir = 277 - angleRoad = [7;187]
+Debug: [2]: dir = 277 - angleRoad = [24;204]
+Debug: [2]: dir = 277 - angleRoad = [149;329]
+Debug: [2]: dir = 277 - angleRoad = [19;199]
+Debug: [2]: dir = 277 - angleRoad = [19;199]
+
+Debug: nearList=[(6.677387834616945, 49719, -70.69877724549376, -33.40247983977365, 2.199244906607798), (13.83060942236727, 49819, -70.69879480272515, -33.40266407972282, -174.2858793837001)]
+PointsToCheck: 5
+Input i: 1
+Input j: 2
+Searching for alt j (2)
+('Started_FID_i: ', 49989)
+solution found!
+i: 1  &   j: 2
+0.068299
+------------------------
+Debug: [3]: dir = 277 - angleRoad = [6;186]
+Debug: [3]: dir = 277 - angleRoad = [93;273]
+Debug: [3]: dir = 277 - angleRoad = [74;254]
+Debug: [3]: dir = 277 - angleRoad = [74;254]
+Debug: [3]: dir = 277 - angleRoad = [97;277]
+Debug: [3]: dir = 277 - angleRoad = [111;291]
+
+Debug: nearList=[(8.804347741835345, 49683, -70.69987340372992, -33.40239081139573, 3.9965357978522595), (13.112062672323349, 49801, -70.69989508632992, -33.40258754166849, -173.85566939065043), (13.544723681474768, 49958, -70.69993138319293, -33.40258426433122, -159.33491016012619)]
+PointsToCheck: 5
+Input i: 2
+Input j: 3
+Searching for alt j (3)
+('Started_FID_i: ', 49719)
+solution found!
+i: 2  &   j: 3
+0.102565
+------------------------
+Debug: [4]: dir = 276 - angleRoad = [95;275]
+Debug: [4]: dir = 276 - angleRoad = [6;186]
+Debug: [4]: dir = 276 - angleRoad = [38;218]
+Debug: [4]: dir = 276 - angleRoad = [5;185]
+Debug: [4]: dir = 276 - angleRoad = [163;343]
+Debug: [4]: dir = 276 - angleRoad = [27;207]
+Debug: [4]: dir = 276 - angleRoad = [27;207]
+
+Debug: nearList=[(9.386526442040713, 49657, -70.70059041596238, -33.40233575196228, 5.4504118334246385)]
+PointsToCheck: 5
+Input i: 3
+Input j: 4
+Searching for alt j (4)
+('Started_FID_i: ', 49683)
+solution found!
+i: 3  &   j: 4
+0.066975
+------------------------
+Debug: [5]: dir = 270 - angleRoad = [6;186]
+Debug: [5]: dir = 270 - angleRoad = [94;274]
+Debug: [5]: dir = 270 - angleRoad = [68;248]
+Debug: [5]: dir = 270 - angleRoad = [163;343]
+Debug: [5]: dir = 270 - angleRoad = [163;343]
+Debug: [5]: dir = 270 - angleRoad = [57;237]
+
+Debug: nearList=[(8.687693920515727, 49637, -70.70110335372222, -33.402301868747315, 4.081050269463695)]
+PointsToCheck: 5
+Input i: 4
+Input j: 5
+Searching for alt j (5)
+('Started_FID_i: ', 49657)
+solution found!
+i: 4  &   j: 5
+0.047863
+------------------------
+Debug: [6]: dir = 188 - angleRoad = [2;182]
+Debug: [6]: dir = 188 - angleRoad = [86;266]
+Debug: [6]: dir = 188 - angleRoad = [56;236]
+Debug: [6]: dir = 188 - angleRoad = [151;331]
+Debug: [6]: dir = 188 - angleRoad = [151;331]
+Debug: [6]: dir = 188 - angleRoad = [151;331]
+
+Debug: nearList=[(4.177212482360833, 50002, -70.7012451470785, -33.40312179145242, 92.72636752014091)]
+PointsToCheck: 5
+Input i: 5
+Input j: 6
+Searching for alt j (6)
+('Started_FID_i: ', 49637)
+solution found!
+i: 5  &   j: 6
+0.095989
+------------------------
+Debug: [7]: dir = 153 - angleRoad = [154;334]
+
+Debug: nearList=[(5.851102387045432, 50578, -70.70077319030187, -33.404347356361434, 64.58158077504292)]
+PointsToCheck: 5
+Input i: 6
+Input j: 7
+Searching for alt j (7)
+('Started_FID_i: ', 50002)
+solution found!
+i: 6  &   j: 7
+0.165041
+------------------------
+Debug: [8]: dir = 220 - angleRoad = [144;324]
+Debug: [8]: dir = 220 - angleRoad = [144;324]
+Debug: [8]: dir = 220 - angleRoad = [49;229]
+
+Debug: nearList=[(20.681898628645197, 50951, -70.70022727085508, -33.40623030318699, -41.48253652178104)]
+PointsToCheck: 5
+Input i: 7
+Input j: 8
+Searching for alt j (8)
+('Started_FID_i: ', 50578)
+solution found!
+i: 7  &   j: 8
+0.233747
+------------------------
+Debug: [9]: dir = 289 - angleRoad = [109;289]
+Debug: [9]: dir = 289 - angleRoad = [110;290]
+Debug: [9]: dir = 289 - angleRoad = [123;303]
+Debug: [9]: dir = 289 - angleRoad = [123;303]
+Debug: [9]: dir = 289 - angleRoad = [33;213]
+
+Debug: nearList=[(1.979831583655032, 50952, -70.70157289999719, -33.40631317201541, 19.487068615398382), (6.204870792665027, 76734, -70.70160197536943, -33.406382821010936, -160.7645266906573), (6.381443303648755, 51078, -70.70161710660571, -33.40637839283399, -147.25481014155537), (6.381443303648755, 76733, -70.70161710660571, -33.40637839283399, -147.25481014155537)]
+PointsToCheck: 5
+Input i: 8
+Input j: 9
+Searching for alt j (9)
+('Started_FID_i: ', 50951)
+solution found!
+i: 8  &   j: 9
+0.143756
+------------------------
+Debug: [10]: dir = 303 - angleRoad = [116;296]
+Debug: [10]: dir = 303 - angleRoad = [116;296]
+Debug: [10]: dir = 303 - angleRoad = [6;186]
+Debug: [10]: dir = 303 - angleRoad = [31;211]
+Debug: [10]: dir = 303 - angleRoad = [61;241]
+Debug: [10]: dir = 303 - angleRoad = [61;241]
+
+Debug: nearList=[(1.2465067882614893, 50768, -70.70275576985904, -33.405940143508325, -154.4952074082516), (9.615765419278626, 76117, -70.70279489286784, -33.40600809461601, -154.25966788333736)]
+PointsToCheck: 5
+Input i: 9
+Input j: 10
+Searching for alt j (10)
+('Started_FID_i: ', 50952)
+solution found!
+i: 9  &   j: 10
+0.117665
+------------------------
+Debug: [11]: dir = 90 - angleRoad = [116;296]
+Debug: [11]: dir = 90 - angleRoad = [6;186]
+Debug: [11]: dir = 90 - angleRoad = [116;296]
+Debug: [11]: dir = 90 - angleRoad = [34;214]
+Debug: [11]: dir = 90 - angleRoad = [64;244]
+Debug: [11]: dir = 90 - angleRoad = [64;244]
+
+Debug: nearList=[(1.6470510010305062, 50768, -70.70274762390595, -33.405943402956474, -154.49521287563707)]
+PointsToCheck: 5
+Input i: 10
+Input j: 11
+Searching for alt j (11)
+('Started_FID_i: ', 50768)
+Searching for alt i (10)
+('Started_FID_j: ', 50768)
+Searching for alt j (11)
+('Started_FID_i: ', 50952)
+solution found!
+i: 9  &   j: 11
+0.116826
+Routing...
+9-->11 - Assign List:[50768, 50877, 50952]
+Forcing points between 9 and 11
+10
+(1.1560803771327248e-05, 50768, -70.70275429480381, -33.405940733445064)
+('assign: ', ((-70.70275429480381, -33.405940733445064), 50768))
+------------------------
+Debug: [12]: dir = 301 - angleRoad = [115;295]
+Debug: [12]: dir = 301 - angleRoad = [116;296]
+
+Debug: nearList=[(2.9635701213822743, 50768, -70.70316628206662, -33.40577588385256, 25.505028094626386), (5.231789561452177, 76117, -70.70320442567856, -33.405842489994036, -154.25943220817862)]
+PointsToCheck: 5
+Input i: 11
+Input j: 12
+Searching for alt j (12)
+('Started_FID_i: ', 50768)
+solution found!
+i: 11  &   j: 12
+0.043146
+------------------------
+Debug: [13]: dir = 27 - angleRoad = [26;206]
+Debug: [13]: dir = 27 - angleRoad = [27;207]
+
+Debug: nearList=[(1.2697728214416106, 76571, -70.70373777612951, -33.40520509477822, 116.42442797245117), (27.728263995360354, 76570, -70.70401629821312, -33.405087676476064, -63.30202577601745)]
+PointsToCheck: 5
+Input i: 12
+Input j: 13
+Searching for alt j (13)
+('Started_FID_i: ', 50768)
+solution found!
+i: 12  &   j: 13
+0.108965
+------------------------
+Debug: [14]: dir = 29 - angleRoad = [26;206]
+Debug: [14]: dir = 29 - angleRoad = [83;263]
+Debug: [14]: dir = 29 - angleRoad = [74;254]
+Debug: [14]: dir = 29 - angleRoad = [119;299]
+Debug: [14]: dir = 29 - angleRoad = [119;299]
+Debug: [14]: dir = 29 - angleRoad = [31;211]
+Debug: [14]: dir = 29 - angleRoad = [26;206]
+Debug: [14]: dir = 29 - angleRoad = [26;206]
+
+Debug: nearList=[(1.1920591130612221, 76571, -70.7027185244357, -33.40348478287073, 116.4238690178477), (26.658745809292835, 76109, -70.70297578973302, -33.40335641166061, -59.05742286970408), (26.79963745065802, 76110, -70.70299095896735, -33.403377634306494, -64.93510688189001), (26.79963745065802, 76570, -70.70299095896735, -33.403377634306494, -64.93510688189001)]
+PointsToCheck: 5
+Input i: 13
+Input j: 14
+Searching for alt j (14)
+('Started_FID_i: ', 76571)
+solution found!
+i: 13  &   j: 14
+0.213043
+------------------------
+Debug: [15]: dir = 82 - angleRoad = [83;263]
+Debug: [15]: dir = 82 - angleRoad = [150;330]
+Debug: [15]: dir = 82 - angleRoad = [155;335]
+Debug: [15]: dir = 82 - angleRoad = [155;335]
+Debug: [15]: dir = 82 - angleRoad = [166;346]
+Debug: [15]: dir = 82 - angleRoad = [166;346]
+
+Debug: nearList=[(3.249013944751727, 76574, -70.70154477234406, -33.40320098104866, -7.853571191894533)]
+PointsToCheck: 5
+Input i: 14
+Input j: 15
+Searching for alt j (15)
+('Started_FID_i: ', 76571)
+solution found!
+i: 14  &   j: 15
+0.121052
+------------------------
+Debug: [16]: dir = 93 - angleRoad = [95;275]
+Debug: [16]: dir = 93 - angleRoad = [96;276]
+Debug: [16]: dir = 93 - angleRoad = [96;276]
+Debug: [16]: dir = 93 - angleRoad = [96;276]
+Debug: [16]: dir = 93 - angleRoad = [96;276]
+Debug: [16]: dir = 93 - angleRoad = [16;196]
+Debug: [16]: dir = 93 - angleRoad = [16;196]
+
+Debug: nearList=[(5.938679835622383, 50046, -70.69907425356196, -33.403316673128785, 5.164433425601494), (5.939446823016335, 50045, -70.69907325019838, -33.40331674894015, 6.068522148739521), (5.939446823016335, 50056, -70.69907325019838, -33.40331674894015, 6.068522148739521), (28.88057006768761, 49976, -70.69904665624416, -33.40311111362859, 6.165579646576299), (28.88057006768761, 49978, -70.69904665624416, -33.40311111362859, 6.165579646576299)]
+PointsToCheck: 5
+Input i: 15
+Input j: 16
+Searching for alt j (16)
+('Started_FID_i: ', 76574)
+solution found!
+i: 15  &   j: 16
+0.230805
+------------------------
+Debug: [17]: dir = 8 - angleRoad = [4;184]
+Debug: [17]: dir = 8 - angleRoad = [95;275]
+Debug: [17]: dir = 8 - angleRoad = [95;275]
+
+Debug: nearList=[(0.175685956537211, 49989, -70.69840811749745, -33.40284012680766, 94.59169848343298)]
+PointsToCheck: 5
+Input i: 16
+Input j: 17
+Searching for alt j (17)
+('Started_FID_i: ', 50046)
+solution found!
+i: 16  &   j: 17
+0.115385
+------------------------
+Debug: [18]: dir = 119 - angleRoad = [4;184]
+Debug: [18]: dir = 119 - angleRoad = [95;275]
+Debug: [18]: dir = 119 - angleRoad = [106;286]
+Debug: [18]: dir = 119 - angleRoad = [97;277]
+Debug: [18]: dir = 119 - angleRoad = [98;278]
+
+Debug: nearList=[(11.820209744457474, 49834, -70.69839447741538, -33.40269767625904, 16.234346297303407)]
+PointsToCheck: 5
+Input i: 17
+Input j: 18
+Searching for alt j (18)
+('Started_FID_i: ', 49989)
+solution found!
+i: 17  &   j: 18
+0.015849
+============================ Results ====================================
+('Points with not solution: ', [(5, 49637, 50002), (18, 49834, 49989)])
+count_getMidPoint = 1
+count_str2datetime = 18
+count_gpsDataDict = 1
+count_route_solver = 20
+count_near_segments = 18
+count_acceptSnapPoints = 1
+count_clean = 1
+count_solverForIAndJ = 17
+count_mapMatch = 17
+count_compareFID = 1
+Time of execution(computacional): 1.236
+
+Time of execution(fin-inicio): 0:01:23.577000
+=========================================================================

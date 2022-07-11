@@ -1,0 +1,351 @@
+T386_20150207_2793_2819
+gps dictionary done...
+midPoint : (-70.7262044444,-33.4037566667)
+n: 27
+-----------
+Accepted: 1(77032)
+
+============================ Parameters ====================================
+Sample frencuency: 10
+
+Points Snapped: 27
+
+Speed tolerance range: 8
+
+Search Radius: 64 Meters
+
+============================================================================
+------------------------
+PointsToCheck: 5
+Input i: 1 FID: 77032
+Input j: 2 FID: 76995
+Searching for alt j (2)
+('Started_FID_i: ', 77032)
+no more i for iterations
+didn't find matching i or j
+------------------------
+PointsToCheck: 5
+Input i: 2 FID: 76995
+Input j: 3 FID: 76885
+Searching for alt i (2)
+('Started_FID_j: ', 76885)
+Searching for alt j (3)
+('Started_FID_i: ', 77032)
+Searching for alt j (4)
+('Started_FID_i: ', 77032)
+no more i for iterations
+didn't find matching i or j
+------------------------
+PointsToCheck: 5
+Input i: 3 FID: 76885
+Input j: 4 FID: 76877
+Searching for alt i (3)
+('Started_FID_j: ', 76877)
+Searching for alt i (2)
+('Started_FID_j: ', 76877)
+Searching for alt i (2)
+('Started_FID_j: ', 49465)
+Searching for alt j (5)
+('Started_FID_i: ', 77032)
+Searching for alt j (6)
+('Started_FID_i: ', 77032)
+solution found!
+i: 1  &   j: 6
+FID = i: 77032  &   j: 76564
+Routing...
+1-->6 - Assign List:[49201, 49465, 49725, 49775, 76564, 76877, 76892, 76986, 76988, 76990, 76991, 76996, 77025, 77026, 77027, 77028, 77029, 77030, 77032]
+Forcing points between 1 and 6
+2
+(4.164556946919013e-05, 76995, -70.75704807669753, -33.39886313232199)
+('assign: ', ((-70.75704807669753, -33.39886313232199), 76995))
+Forcing points between 1 and 6
+3
+(7.400269671181079e-06, 76885, -70.75821256632277, -33.39864694103578)
+('assign: ', ((-70.75821256632277, -33.39864694103578), 76885))
+Forcing points between 1 and 6
+4
+(1.8762833374751962e-06, 76877, -70.75400039656505, -33.40001183389616)
+('assign: ', ((-70.75400039656505, -33.40001183389616), 76877))
+Forcing points between 1 and 6
+5
+(2.757075865345974e-05, 49465, -70.7509345807626, -33.401102812441295)
+('assign: ', ((-70.7509345807626, -33.401102812441295), 49465))
+------------------------
+PointsToCheck: 5
+Input i: 4 FID: 76877
+Input j: 5 FID: 49465
+Searching for alt j (5)
+('Started_FID_i: ', 76877)
+solution found!
+i: 4  &   j: 5
+FID = i: 76877  &   j: 49465
+------------------------
+PointsToCheck: 5
+Input i: 5 FID: 49465
+Input j: 6 FID: 76564
+Searching for alt j (6)
+('Started_FID_i: ', 49465)
+solution found!
+i: 5  &   j: 6
+FID = i: 49465  &   j: 76564
+------------------------
+PointsToCheck: 5
+Input i: 6 FID: 76564
+Input j: 7 FID: 50420
+Searching for alt j (7)
+('Started_FID_i: ', 76564)
+solution found!
+i: 6  &   j: 7
+FID = i: 76564  &   j: 50259
+------------------------
+PointsToCheck: 5
+Input i: 7 FID: 50420
+Input j: 8 FID: 50520
+Searching for alt j (8)
+('Started_FID_i: ', 50259)
+Searching for alt i (7)
+('Started_FID_j: ', 50520)
+solution found!
+i: 7  &   j: 8
+FID = i: 50422  &   j: 50520
+------------------------
+PointsToCheck: 5
+Input i: 8 FID: 50520
+Input j: 9 FID: 50520
+Searching for alt j (9)
+('Started_FID_i: ', 50520)
+solution found!
+i: 8  &   j: 9
+FID = i: 50520  &   j: 50875
+------------------------
+PointsToCheck: 5
+Input i: 9 FID: 50520
+Input j: 10 FID: 51306
+Searching for alt j (10)
+('Started_FID_i: ', 50875)
+solution found!
+i: 9  &   j: 10
+FID = i: 50875  &   j: 51306
+------------------------
+PointsToCheck: 5
+Input i: 10 FID: 51306
+Input j: 11 FID: 52179
+Searching for alt j (11)
+('Started_FID_i: ', 51306)
+Searching for alt i (10)
+('Started_FID_j: ', 52179)
+Searching for alt j (11)
+('Started_FID_i: ', 50875)
+Searching for alt i (9)
+('Started_FID_j: ', 52179)
+Searching for alt j (12)
+('Started_FID_i: ', 50875)
+ERROR 030024: Solve returned a failure.
+No solution found.
+Failed to execute (Solve).
+
+------------------------
+PointsToCheck: 5
+Input i: 11 FID: 52179
+Input j: 12 FID: 75981
+Searching for alt i (11)
+('Started_FID_j: ', 75981)
+Searching for alt j (12)
+('Started_FID_i: ', 51306)
+ERROR 030024: Solve returned a failure.
+No solution found.
+Failed to execute (Solve).
+
+------------------------
+PointsToCheck: 5
+Input i: 12 FID: 75981
+Input j: 13 FID: 75999
+Searching for alt i (12)
+('Started_FID_j: ', 75999)
+ERROR 030024: Solve returned a failure.
+No solution found.
+Failed to execute (Solve).
+
+------------------------
+PointsToCheck: 5
+Input i: 13 FID: 75999
+Input j: 14 FID: 75999
+Searching for alt i (13)
+('Started_FID_j: ', 75999)
+Searching for alt i (12)
+('Started_FID_j: ', 75999)
+ERROR 030024: Solve returned a failure.
+No solution found.
+Failed to execute (Solve).
+
+------------------------
+PointsToCheck: 5
+Input i: 14 FID: 75999
+Input j: 15 FID: 75999
+Searching for alt i (14)
+('Started_FID_j: ', 75999)
+solution found!
+i: 14  &   j: 15
+FID = i: 75999  &   j: 75999
+------------------------
+PointsToCheck: 5
+Input i: 15 FID: 75999
+Input j: 16 FID: 76001
+Searching for alt j (16)
+('Started_FID_i: ', 75999)
+solution found!
+i: 15  &   j: 16
+FID = i: 75999  &   j: 76001
+------------------------
+PointsToCheck: 5
+Input i: 16 FID: 76001
+Input j: 17 FID: 76002
+Searching for alt j (17)
+('Started_FID_i: ', 76001)
+solution found!
+i: 16  &   j: 17
+FID = i: 76001  &   j: 76002
+------------------------
+PointsToCheck: 5
+Input i: 17 FID: 76002
+Input j: 18 FID: 76131
+Searching for alt j (18)
+('Started_FID_i: ', 76002)
+solution found!
+i: 17  &   j: 18
+FID = i: 76002  &   j: 51047
+------------------------
+PointsToCheck: 5
+Input i: 18 FID: 76131
+Input j: 19 FID: 76571
+Searching for alt j (19)
+('Started_FID_i: ', 51047)
+Searching for alt i (18)
+('Started_FID_j: ', 76571)
+solution found!
+i: 18  &   j: 19
+FID = i: 76126  &   j: 76571
+------------------------
+PointsToCheck: 5
+Input i: 19 FID: 76571
+Input j: 20 FID: 76104
+Searching for alt j (20)
+('Started_FID_i: ', 76571)
+solution found!
+i: 19  &   j: 20
+FID = i: 76571  &   j: 76104
+------------------------
+PointsToCheck: 5
+Input i: 20 FID: 76104
+Input j: 21 FID: 76095
+Searching for alt j (21)
+('Started_FID_i: ', 76104)
+Searching for alt i (20)
+('Started_FID_j: ', 76095)
+Searching for alt j (21)
+('Started_FID_i: ', 76571)
+solution found!
+i: 19  &   j: 21
+FID = i: 76571  &   j: 76103
+Routing...
+19-->21 - Assign List:[49392, 49533, 49689, 76095, 76096, 76098, 76102, 76103, 76104, 76571, 76706, 76708, 76709]
+Forcing points between 19 and 21
+20
+(2.1262006404304473e-05, 76104, -70.70193669573162, -33.40260658521509)
+('assign: ', ((-70.70193669573162, -33.40260658521509), 76104))
+------------------------
+PointsToCheck: 5
+Input i: 21 FID: 76095
+Input j: 22 FID: 76712
+Searching for alt j (22)
+('Started_FID_i: ', 76103)
+Searching for alt i (21)
+('Started_FID_j: ', 76712)
+Searching for alt j (22)
+('Started_FID_i: ', 76104)
+Searching for alt i (20)
+('Started_FID_j: ', 76712)
+Searching for alt j (23)
+('Started_FID_i: ', 76104)
+Searching for alt i (20)
+('Started_FID_j: ', 48482)
+Searching for alt j (23)
+('Started_FID_i: ', 76571)
+solution found!
+i: 19  &   j: 23
+FID = i: 76571  &   j: 48482
+Routing...
+19-->23 - Assign List:[48482, 49392, 49533, 49689, 76095, 76096, 76104, 76571, 76706, 76709, 76710]
+Forcing points between 19 and 23
+20
+(2.1262006404304473e-05, 76104, -70.70193669573162, -33.40260658521509)
+('assign: ', ((-70.70193669573162, -33.40260658521509), 76104))
+Forcing points between 19 and 23
+21
+(2.0856191898741948e-05, 76095, -70.69890951615194, -33.40094144134718)
+('assign: ', ((-70.69890951615194, -33.40094144134718), 76095))
+Forcing points between 19 and 23
+22
+(2.1047548180178954e-05, 76712, -70.69698118418526, -33.40066216987704)
+('assign: ', ((-70.69698118418526, -33.40066216987704), 76712))
+------------------------
+PointsToCheck: 5
+Input i: 22 FID: 76712
+Input j: 23 FID: 48482
+Searching for alt j (23)
+('Started_FID_i: ', 76712)
+solution found!
+i: 22  &   j: 23
+FID = i: 76712  &   j: 48482
+------------------------
+PointsToCheck: 5
+Input i: 23 FID: 48482
+Input j: 24 FID: 48338
+Searching for alt j (24)
+('Started_FID_i: ', 48482)
+solution found!
+i: 23  &   j: 24
+FID = i: 48482  &   j: 48722
+------------------------
+PointsToCheck: 5
+Input i: 24 FID: 48338
+Input j: 25 FID: 48402
+Searching for alt j (25)
+('Started_FID_i: ', 48722)
+solution found!
+i: 24  &   j: 25
+FID = i: 48722  &   j: 48402
+------------------------
+PointsToCheck: 5
+Input i: 25 FID: 48402
+Input j: 26 FID: 48513
+Searching for alt j (26)
+('Started_FID_i: ', 48402)
+solution found!
+i: 25  &   j: 26
+FID = i: 48402  &   j: 48513
+------------------------
+PointsToCheck: 5
+Input i: 26 FID: 48513
+Input j: 27 FID: 48513
+Searching for alt j (27)
+('Started_FID_i: ', 48513)
+solution found!
+i: 26  &   j: 27
+FID = i: 48513  &   j: 48513
+============================ Results ====================================
+('Points with not solution: ', [(7, 50422, 50420), (9, 50875, 50520), (11, 0, 52179), (12, 0, 75981), (13, 0, 75999), (18, 76126, 76131), (24, 48722, 48338)])
+count_getMidPoint = 1
+count_str2datetime = 0
+count_gpsDataDict = 1
+count_route_solver = 343
+count_near_segments = 27
+count_acceptSnapPoints = 1
+count_clean = 1
+count_solverForIAndJ = 26
+count_mapMatch = 26
+count_compareFID = 1
+Time of execution(computacional): 3.345
+
+Time of execution(fin-inicio): 0:03:34.544000
+=========================================================================
